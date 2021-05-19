@@ -1,0 +1,1586 @@
+;university_name;long;lat;periode;effectif
+0;Aarhus University;10.2011;56.1706;1951-1961;2
+1;Aberystwyth University;-4.06576;52.4181;1921-1941;1
+2;Achimota School;-0.213611;5.62722;1921-1941;1
+3;Adelphi University;-73.652;40.72;1961-1971;1
+4;Ahmadu Bello University;7.7;11.0667;1941-1951;1
+5;Aitchison College;74.2539;31.4578;1921-1941;1
+6;Alexandru Ioan Cuza University;27.5717;47.1742;1971-2001;1
+7;Aligarh Muslim University;78.0788;27.915;1901-1921;1
+8;Ambrose Alli University;6.08455;6.74463;1961-1971;1
+9;American University;-77.0869;38.9371;1901-1921;1
+10;American University;-77.0869;38.9371;1921-1941;1
+11;American University;-77.0869;38.9371;1961-1971;2
+12;American University of Beirut;35.4823;33.9;1901-1921;1
+13;American University of Beirut;35.4823;33.9;1921-1941;1
+14;American University of Beirut;35.4823;33.9;1951-1961;1
+15;American University of Beirut;35.4823;33.9;1961-1971;1
+16;Amherst College;-72.5169;42.3708;1771-1861;2
+17;Amherst College;-72.5169;42.3708;1921-1941;2
+18;Ananda College;79.8692;6.925;1921-1941;1
+19;Andhra University;83.3216;17.7293;1921-1941;1
+20;Andhra University;83.3216;17.7293;1941-1951;1
+21;Andrés Bello Catholic University;-66.9759;10.4643;1941-1951;1
+22;Ankara University;32.8303;39.9367;1901-1921;1
+23;Ankara University;32.8303;39.9367;1951-1961;1
+24;Aristotle University of Thessaloniki;22.9581;40.63;1961-1971;1
+25;Arizona State University;-111.933;33.421;1951-1961;1
+26;Arizona State University;-111.933;33.421;1971-2001;1
+27;Asian Institute of Technology;100.611;14.0791;1941-1951;1
+28;Assumption College (Thailand);100.516;13.7231;1901-1921;1
+29;Assumption University (Windsor, Ontario);-83.0012;42.0051;1921-1941;1
+30;Ateneo de Manila University;121.078;14.6389;1921-1941;1
+31;Ateneo de Manila University;121.078;14.6389;1951-1961;1
+32;Athens University of Economics and Business;23.7322;37.9939;1951-1961;1
+33;Athens University of Economics and Business;23.7322;37.9939;1971-2001;1
+34;Auburn University;-85.486;32.603;1951-1961;1
+35;Australian Defence Force Academy;149.164;-35.2939;1961-1971;1
+36;Australian National University;149.12;-35.2778;1921-1941;2
+37;Australian National University;149.12;-35.2778;1941-1951;4
+38;Australian National University;149.12;-35.2778;1951-1961;5
+39;Australian National University;149.12;-35.2778;1961-1971;3
+40;Autonomous University of Madrid;-3.69611;40.5453;1941-1951;1
+41;Babeș-Bolyai University;23.5914;46.7677;1941-1951;1
+42;Babson College;-71.2612;42.2982;1941-1951;1
+43;Babson College;-71.2612;42.2982;1961-1971;1
+44;Balliol College, Oxford;-1.2578;51.7547;1771-1861;3
+45;Balliol College, Oxford;-1.2578;51.7547;1861-1901;2
+46;Balliol College, Oxford;-1.2578;51.7547;1901-1921;4
+47;Balliol College, Oxford;-1.2578;51.7547;1941-1951;1
+48;Balliol College, Oxford;-1.2578;51.7547;1951-1961;1
+49;Balliol College, Oxford;-1.2578;51.7547;1961-1971;1
+50;Balliol College, Oxford;-1.2578;51.7547;1971-2001;1
+51;Ballygunge Government High School;88.3539;22.5301;1921-1941;1
+52;Bandung Institute of Technology;107.61;-6.8909;1951-1961;1
+53;Bangalore University;77.5032;12.9388;1951-1961;1
+54;Bank of Spain;-3.69472;40.4183;1951-1961;1
+55;Bard College;-73.908;42.021;1951-1961;1
+56;Barnard College;-73.9635;40.8096;1901-1921;1
+57;Bashkir State University;55.9336;54.7214;1951-1961;1
+58;Beijing University of Chemical Technology;116.415;39.9689;1941-1951;1
+59;Belarus State Economic University;27.6072;53.8781;1971-2001;1
+60;Benue State University;8.5563;7.7265;1961-1971;1
+61;Bielefeld University;8.49306;52.0378;1951-1961;1
+62;Bielefeld University;8.49306;52.0378;1961-1971;1
+63;Binghamton University;-75.967;42.0888;1941-1951;1
+64;Birkbeck, University of London;-0.129338;51.5217;1961-1971;3
+65;Birkbeck, University of London;-0.129338;51.5217;1971-2001;1
+66;Blekinge Institute of Technology;15.5906;56.1814;1971-2001;1
+67;Bocconi University;9.18972;45.4503;1921-1941;1
+68;Bocconi University;9.18972;45.4503;1941-1951;2
+69;Bocconi University;9.18972;45.4503;1951-1961;4
+70;Bocconi University;9.18972;45.4503;1961-1971;6
+71;Bocconi University;9.18972;45.4503;1971-2001;2
+72;Boston Latin School;-71.102;42.338;1941-1951;1
+73;Boston University;-71.0997;42.3496;1901-1921;1
+74;Boston University;-71.0997;42.3496;1921-1941;1
+75;Boston University;-71.0997;42.3496;1941-1951;5
+76;Boston University;-71.0997;42.3496;1951-1961;3
+77;Bowdoin College;-69.963;43.909;1861-1901;2
+78;Bowling Green State University;-83.63;41.38;1961-1971;1
+79;Brandeis University;-71.2597;42.3657;1921-1941;1
+80;Brandeis University;-71.2597;42.3657;1941-1951;1
+81;Brandeis University;-71.2597;42.3657;1951-1961;2
+82;Brandeis University;-71.2597;42.3657;1961-1971;1
+83;Brasenose College, Oxford;-1.25473;51.7532;1971-2001;1
+84;Brest State Technical University;23.75;52.0833;1941-1951;1
+85;Brigham Young University;-111.649;40.2508;1941-1951;1
+86;Brigham Young University;-111.649;40.2508;1951-1961;1
+87;Brojomohun College;90.3551;22.7121;1921-1941;1
+88;Brooklyn College;-73.9525;40.6311;1921-1941;2
+89;Brooklyn College;-73.9525;40.6311;1941-1951;1
+90;Brown University;-71.4032;41.8262;1771-1861;1
+91;Brown University;-71.4032;41.8262;1861-1901;1
+92;Brown University;-71.4032;41.8262;1901-1921;1
+93;Brown University;-71.4032;41.8262;1921-1941;1
+94;Brown University;-71.4032;41.8262;1941-1951;3
+95;Brown University;-71.4032;41.8262;1951-1961;3
+96;Brown University;-71.4032;41.8262;1961-1971;2
+97;Bryn Mawr College;-75.3136;40.0264;1901-1921;2
+98;Bucharest;26.1039;44.4325;1971-2001;1
+99;Bucharest Academy of Economic Studies;26.0966;44.4476;1941-1951;2
+100;Bucharest Academy of Economic Studies;26.0966;44.4476;1961-1971;1
+101;Bucharest Academy of Economic Studies;26.0966;44.4476;1971-2001;2
+102;Budapest;19.0514;47.4925;1861-1901;1
+103;Budapest Business School;19.1247;47.5081;1951-1961;1
+104;Budapest University of Technology and Economics;19.0556;47.4814;1861-1901;1
+105;CMS Grammar School, Lagos;3.38864;6.53458;1921-1941;1
+106;Ca' Foscari University of Venice;12.3265;45.4345;1941-1951;1
+107;Ca' Foscari University of Venice;12.3265;45.4345;1951-1961;1
+108;Cairo University;31.2101;30.0276;1921-1941;1
+109;Cairo University;31.2101;30.0276;1951-1961;2
+110;California Coast University;-117.871;33.7791;1951-1961;1
+111;California Institute of Technology;-118.125;34.1375;1901-1921;1
+112;California Institute of Technology;-118.125;34.1375;1921-1941;2
+113;California Institute of Technology;-118.125;34.1375;1941-1951;3
+114;California Miramar University;-117.118;32.7792;1921-1941;1
+115;California State University, Chico;-121.849;39.7317;1951-1961;1
+116;California State University, Fresno;-119.75;36.8133;1941-1951;1
+117;California State University, Los Angeles;-118.168;34.0667;1921-1941;1
+118;California State University, Sacramento;-121.424;38.5602;1941-1951;1
+119;California State University, Sacramento;-121.424;38.5602;1961-1971;1
+120;Cambridge;0.119167;52.2053;1771-1861;1
+121;Cardiff;-3.18333;51.4833;1921-1941;1
+122;Cardiff Metropolitan University;-3.1649;51.4843;1921-1941;1
+123;Cardiff University;-3.179;51.4877;1901-1921;1
+124;Carleton College;-93.1536;44.4619;1921-1941;1
+125;Carleton College;-93.1536;44.4619;1961-1971;1
+126;Carnegie Mellon University;-79.9436;40.4433;1921-1941;6
+127;Carnegie Mellon University;-79.9436;40.4433;1941-1951;3
+128;Carnegie Mellon University;-79.9436;40.4433;1951-1961;2
+129;Carnegie Mellon University;-79.9436;40.4433;1961-1971;1
+130;Carnegie Mellon University;-79.9436;40.4433;1971-2001;1
+131;Case Western Reserve University;-81.608;41.504;1921-1941;1
+132;Case Western Reserve University;-81.608;41.504;1941-1951;1
+133;Catholic University of Leuven (1834–1968);4.61222;50.6697;1901-1921;2
+134;Catholic University of Leuven (1834–1968);4.61222;50.6697;1921-1941;1
+135;Catholic University of Portugal;-8.6724;41.1534;1951-1961;1
+136;Catholic University of Portugal;-8.6724;41.1534;1961-1971;1
+137;Central American University;-89.2349;13.6809;1971-2001;1
+138;Central Methodist University;-92.6854;39.1504;1941-1951;1
+139;Central University of Venezuela;-66.8907;10.4884;1921-1941;1
+140;CentraleSupélec;2.16356;48.7093;1951-1961;1
+141;Centre College;-84.781;37.6433;1921-1941;1
+142;Charles University;14.4037;50.0884;1861-1901;1
+143;Charles University;14.4037;50.0884;1951-1961;1
+144;Cheikh Anta Diop University;-17.4633;14.6869;1951-1961;1
+145;Chiang Mai University;98.9516;18.8026;1951-1961;1
+146;Chinese Academy of Social Sciences;116.435;39.9097;1941-1951;1
+147;Christ Church, Oxford;-1.25585;51.7502;1921-1941;1
+148;Christ's College, Cambridge;0.1224;52.2063;1901-1921;1
+149;Christ's College, Cambridge;0.1224;52.2063;1941-1951;1
+150;Christ's College, Cambridge;0.1224;52.2063;1961-1971;1
+151;Chulalongkorn University;100.532;13.7384;1941-1951;1
+152;Chulalongkorn University;100.532;13.7384;1951-1961;1
+153;Chulalongkorn University;100.532;13.7384;1961-1971;2
+154;City College of New York;-73.95;40.8194;1861-1901;2
+155;City College of New York;-73.95;40.8194;1901-1921;2
+156;City College of New York;-73.95;40.8194;1921-1941;4
+157;City College of New York;-73.95;40.8194;1951-1961;1
+158;City College of New York;-73.95;40.8194;1961-1971;1
+159;City University of New York;-73.997;40.73;1921-1941;1
+160;Clare College, Cambridge;0.115;52.2052;1901-1921;1
+161;Claremont Graduate University;-117.713;34.1041;1951-1961;1
+162;Claremont Graduate University;-117.713;34.1041;1961-1971;1
+163;Claremont McKenna College;-117.707;34.1017;1941-1951;1
+164;Clarendon College (Texas);-100.903;34.9444;1861-1901;1
+165;Clark Atlanta University;-84.4103;33.7508;1961-1971;1
+166;Clark University;-71.8232;42.251;1941-1951;1
+167;Clark University;-71.8232;42.251;1971-2001;1
+168;Clemson University;-82.8392;34.6783;1951-1961;1
+169;Cleveland State University;-81.6751;41.5017;1951-1961;1
+170;Colby College;-69.6631;44.5642;1941-1951;1
+171;Colby College;-69.6631;44.5642;1951-1961;1
+172;Colby College;-69.6631;44.5642;1971-2001;1
+173;Colgate University;-75.5364;42.8194;1901-1921;1
+174;College of Engineering, Pune;73.8568;18.5306;1941-1951;1
+175;College of Europe;3.2258;51.211;1971-2001;1
+176;College of the Holy Cross;-71.8083;42.2392;1971-2001;1
+177;Colorado College;-104.823;38.848;1861-1901;1
+178;Colorado College;-104.823;38.848;1941-1951;1
+179;Columbia Business School;-73.961;40.81;1901-1921;1
+180;Columbia Business School;-73.961;40.81;1951-1961;2
+181;Columbia University;-73.9619;40.8075;1771-1861;2
+182;Columbia University;-73.9619;40.8075;1861-1901;16
+183;Columbia University;-73.9619;40.8075;1901-1921;9
+184;Columbia University;-73.9619;40.8075;1921-1941;22
+185;Columbia University;-73.9619;40.8075;1941-1951;9
+186;Columbia University;-73.9619;40.8075;1951-1961;6
+187;Columbia University;-73.9619;40.8075;1961-1971;3
+188;Columbia University;-73.9619;40.8075;1971-2001;1
+189;Complutense University of Madrid;-3.72806;40.4492;1901-1921;1
+190;Complutense University of Madrid;-3.72806;40.4492;1921-1941;3
+191;Complutense University of Madrid;-3.72806;40.4492;1941-1951;5
+192;Complutense University of Madrid;-3.72806;40.4492;1951-1961;1
+193;Cooper Union;-73.9906;40.7293;1941-1951;1
+194;Cornell College;-91.4258;41.9261;1921-1941;1
+195;Cornell University;-76.4831;42.4472;1861-1901;3
+196;Cornell University;-76.4831;42.4472;1921-1941;5
+197;Cornell University;-76.4831;42.4472;1941-1951;7
+198;Cornell University;-76.4831;42.4472;1951-1961;8
+199;Cornell University;-76.4831;42.4472;1961-1971;1
+200;Cornell University;-76.4831;42.4472;1971-2001;1
+201;Corpus Christi College, Cambridge;0.118;52.2031;1921-1941;1
+202;Corpus Christi College, Oxford;-1.2537;51.7509;1961-1971;2
+203;Corvinus University of Budapest;19.0581;47.4861;1941-1951;3
+204;Corvinus University of Budapest;19.0581;47.4861;1951-1961;4
+205;Corvinus University of Budapest;19.0581;47.4861;1961-1971;2
+206;Corvinus University of Budapest;19.0581;47.4861;1971-2001;1
+207;Częstochowa University of Technology;19.1117;50.8211;1971-2001;1
+208;Dagestan State University;47.4939;42.9861;1961-1971;1
+209;Dalhousie University;-63.5917;44.6369;1861-1901;1
+210;Dalhousie University;-63.5917;44.6369;1901-1921;1
+211;Dalhousie University;-63.5917;44.6369;1971-2001;1
+212;Damascus University;36.2914;33.5114;1921-1941;1
+213;Dartmouth College;-72.2883;43.7033;1771-1861;1
+214;Dartmouth College;-72.2883;43.7033;1921-1941;1
+215;Dartmouth College;-72.2883;43.7033;1941-1951;2
+216;Dartmouth College;-72.2883;43.7033;1951-1961;1
+217;Davidson College;-80.8453;35.5;1951-1961;1
+218;Davidson College;-80.8453;35.5;1961-1971;1
+219;Delft University of Technology;4.3725;52.0017;1901-1921;1
+220;Delft University of Technology;4.3725;52.0017;1941-1951;1
+221;Delhi University;77.21;28.69;1941-1951;1
+222;Delhi University;77.21;28.69;1951-1961;4
+223;Denison University;-82.5225;40.0722;1951-1961;1
+224;Dhaka College;90.3832;23.7354;1941-1951;2
+225;Donetsk National University;37.7975;48.0041;1961-1971;1
+226;Donetsk National University;37.7975;48.0041;1971-2001;1
+227;Drake University;-93.6522;41.6011;1921-1941;1
+228;Drexel University;-75.188;39.954;1941-1951;1
+229;Duke University;-78.9389;36.0011;1921-1941;3
+230;Duke University;-78.9389;36.0011;1941-1951;4
+231;Duke University;-78.9389;36.0011;1951-1961;1
+232;Duke University;-78.9389;36.0011;1961-1971;4
+233;Duke University;-78.9389;36.0011;1971-2001;1
+234;Durham University;-1.574;54.773;1941-1951;3
+235;Durham University;-1.574;54.773;1971-2001;1
+236;ENSAE ParisTech;2.20766;48.7111;1921-1941;1
+237;ENSAE ParisTech;2.20766;48.7111;1951-1961;2
+238;ENSAE ParisTech;2.20766;48.7111;1961-1971;1
+239;ESADE;2.11167;41.3914;1961-1971;1
+240;ESAN University;-76.961;-12.105;1941-1951;1
+241;ETH Zurich;8.54806;47.3764;1901-1921;1
+242;Eastern Michigan University;-83.6245;42.2502;1941-1951;1
+243;Edinburgh College of Art;-3.1982;55.9452;1921-1941;1
+244;Eduardo Mondlane University;32.5833;-25.9667;1951-1961;2
+245;Emmanuel College, Cambridge;0.1244;52.2037;1861-1901;1
+246;Emmanuel College, Cambridge;0.1244;52.2037;1921-1941;1
+247;Emory University;-84.3233;33.7911;1921-1941;1
+248;Emory University;-84.3233;33.7911;1941-1951;1
+249;Erasmus University Rotterdam;4.52583;51.9181;1861-1901;1
+250;Erasmus University Rotterdam;4.52583;51.9181;1901-1921;3
+251;Erasmus University Rotterdam;4.52583;51.9181;1921-1941;11
+252;Erasmus University Rotterdam;4.52583;51.9181;1941-1951;5
+253;Erasmus University Rotterdam;4.52583;51.9181;1951-1961;1
+254;Erasmus University Rotterdam;4.52583;51.9181;1961-1971;2
+255;Eton College;-0.608;51.492;1861-1901;1
+256;European University Institute;11.2828;43.8028;1951-1961;1
+257;European University Institute;11.2828;43.8028;1971-2001;1
+258;Evergreen State College;-122.976;47.073;1971-2001;1
+259;Exeter College, Oxford;-1.25605;51.7539;1921-1941;1
+260;Eötvös Loránd University;19.0585;47.4906;1861-1901;1
+261;Eötvös Loránd University;19.0585;47.4906;1901-1921;2
+262;Faculty of Humanities and Social Sciences, University of Zagreb;15.971;45.7967;1861-1901;1
+263;Fairfield University;-73.2581;41.1602;1941-1951;1
+264;Federal University of Bahia;-38.5203;-12.9936;1961-1971;1
+265;Federal University of Minas Gerais;-43.9662;-19.8719;1941-1951;1
+266;Federal University of Pernambuco;-34.9508;-8.05167;1941-1951;1
+267;Federal University of Rio Grande do Sul;-51.2193;-30.0324;1941-1951;1
+268;Federal University of Rio de Janeiro;-43.2239;-22.8625;1941-1951;3
+269;Financial University under the Government of the Russian Federation;37.5293;55.8003;1861-1901;1
+270;Fitzwilliam College, Cambridge;0.10489;52.2145;1941-1951;2
+271;Fitzwilliam College, Cambridge;0.10489;52.2145;1951-1961;1
+272;Fitzwilliam College, Cambridge;0.10489;52.2145;1971-2001;1
+273;Fletcher School of Law and Diplomacy;-71.1217;42.4077;1921-1941;1
+274;Florida Atlantic University;-80.102;26.371;1961-1971;1
+275;Fordham University;-73.8861;40.8619;1941-1951;1
+276;Fordham University;-73.8861;40.8619;1951-1961;1
+277;Fourah Bay College;-13.2212;8.47719;1941-1951;2
+278;Fourah Bay College;-13.2212;8.47719;1951-1961;2
+279;Frederick S. Pardee RAND Graduate School;-118.491;34.0096;1941-1951;1
+280;Free University of Berlin;13.2906;52.4531;1921-1941;2
+281;Free University of Berlin;13.2906;52.4531;1941-1951;1
+282;Free University of Berlin;13.2906;52.4531;1961-1971;1
+283;Free University of Colombia;-74.0756;4.59528;1971-2001;1
+284;Friends University;-97.3667;37.6783;1921-1941;1
+285;Fudan University;121.499;31.2989;1951-1961;2
+286;Fudan University;121.499;31.2989;1961-1971;1
+287;Gadjah Mada University;110.379;-7.76944;1921-1941;1
+288;Gazi University;32.8222;39.9367;1941-1951;2
+289;Gazi University;32.8222;39.9367;1961-1971;1
+290;Gdańsk University of Technology;18.6189;54.3714;1861-1901;1
+291;George Mason University;-77.308;38.831;1951-1961;1
+292;George Mason University;-77.308;38.831;1961-1971;4
+293;George Mason University;-77.308;38.831;1971-2001;2
+294;George Washington University;-77.0508;38.9007;1861-1901;1
+295;George Washington University;-77.0508;38.9007;1901-1921;1
+296;George Washington University;-77.0508;38.9007;1921-1941;2
+297;George Washington University;-77.0508;38.9007;1941-1951;2
+298;George Washington University;-77.0508;38.9007;1951-1961;3
+299;George Washington University;-77.0508;38.9007;1961-1971;1
+300;Georgetown University;-77.0728;38.9072;1921-1941;1
+301;Georgetown University;-77.0728;38.9072;1941-1951;1
+302;Georgetown University;-77.0728;38.9072;1951-1961;1
+303;Georgetown University;-77.0728;38.9072;1961-1971;1
+304;Georgetown University;-77.0728;38.9072;1971-2001;1
+305;Ghent University;3.72792;51.0466;1941-1951;2
+306;Glendon College;-79.3785;43.7275;1951-1961;1
+307;Goethe University Frankfurt;8.66667;50.1278;1861-1901;1
+308;Goethe University Frankfurt;8.66667;50.1278;1901-1921;1
+309;Goethe University Frankfurt;8.66667;50.1278;1921-1941;1
+310;Goethe University Frankfurt;8.66667;50.1278;1941-1951;2
+311;Gonville and Caius College, Cambridge;0.1179;52.2059;1951-1961;1
+312;Gonville and Caius College, Cambridge;0.1179;52.2059;1961-1971;1
+313;Government College University, Lahore;74.3079;31.5732;1921-1941;3
+314;Graduate Institute of International and Development Studies;6.1511;46.2219;1941-1951;2
+315;Gray's Inn;-0.112886;51.5197;1861-1901;1
+316;Grinnell College;-92.7201;41.7491;1951-1961;1
+317;Grove City College;-80.08;41.1561;1951-1961;1
+318;Gubkin Russian State University of Oil and Gas;37.5553;55.692;1921-1941;1
+319;Gustavus Adolphus College;-93.9717;44.3236;1961-1971;1
+320;HEC Montréal;-73.6214;45.5035;1921-1941;1
+321;HEC Paris;2.17028;48.7581;1941-1951;1
+322;HEC Paris;2.17028;48.7581;1951-1961;1
+323;HEC Paris;2.17028;48.7581;1971-2001;1
+324;Haas School of Business;-122.254;37.8717;1961-1971;1
+325;Hacettepe University;32.7344;39.8672;1951-1961;1
+326;Hamline University;-93.1654;44.9658;1951-1961;1
+327;Harvard Business School;-71.1225;42.3672;1921-1941;1
+328;Harvard Business School;-71.1225;42.3672;1941-1951;5
+329;Harvard Business School;-71.1225;42.3672;1961-1971;2
+330;Harvard College;-71.117;42.374;1861-1901;1
+331;Harvard College;-71.117;42.374;1941-1951;1
+332;Harvard College;-71.117;42.374;1951-1961;1
+333;Harvard College;-71.117;42.374;1961-1971;1
+334;Harvard Kennedy School;-71.1219;42.3714;1971-2001;1
+335;Harvard Law School;-71.1186;42.3781;1901-1921;1
+336;Harvard Law School;-71.1186;42.3781;1921-1941;1
+337;Harvard Law School;-71.1186;42.3781;1941-1951;2
+338;Harvard University;-71.1169;42.3744;1771-1861;3
+339;Harvard University;-71.1169;42.3744;1861-1901;17
+340;Harvard University;-71.1169;42.3744;1901-1921;22
+341;Harvard University;-71.1169;42.3744;1921-1941;50
+342;Harvard University;-71.1169;42.3744;1941-1951;40
+343;Harvard University;-71.1169;42.3744;1951-1961;39
+344;Harvard University;-71.1169;42.3744;1961-1971;27
+345;Harvard University;-71.1169;42.3744;1971-2001;15
+346;Haverford College;-75.3072;40.0097;1961-1971;1
+347;Hebrew University of Jerusalem;35.2;31.7758;1921-1941;2
+348;Hebrew University of Jerusalem;35.2;31.7758;1941-1951;5
+349;Hebrew University of Jerusalem;35.2;31.7758;1951-1961;5
+350;Heidelberg University;8.70639;49.4103;1771-1861;3
+351;Heidelberg University;8.70639;49.4103;1951-1961;1
+352;Helsinki University of Technology;24.8278;60.1858;1941-1951;1
+353;Herzen University;30.3194;59.9339;1971-2001;1
+354;Hillsdale College;-84.632;41.933;1971-2001;2
+355;Hiram College;-81.1461;41.3103;1861-1901;1
+356;Hitotsubashi University;139.445;35.6937;1921-1941;2
+357;Hitotsubashi University;139.445;35.6937;1941-1951;1
+358;Hitotsubashi University;139.445;35.6937;1951-1961;1
+359;Howard University;-77.0194;38.9222;1921-1941;2
+360;Howard University;-77.0194;38.9222;1951-1961;3
+361;Howard University;-77.0194;38.9222;1961-1971;1
+362;Huazhong University of Science and Technology;114.41;30.51;1951-1961;1
+363;Hughes Hall, Cambridge;0.1325;52.2009;1971-2001;1
+364;Hult International Business School;-71.0736;42.3694;1951-1961;1
+365;Humboldt University of Berlin;13.3933;52.5181;1861-1901;2
+366;Humboldt University of Berlin;13.3933;52.5181;1961-1971;1
+367;Hunan Normal University;112.947;28.1864;1951-1961;1
+368;Hunter College;-73.9647;40.7685;1901-1921;2
+369;Hunter College;-73.9647;40.7685;1941-1951;1
+370;ICHEC Brussels Management School;4.40861;50.8381;1971-2001;1
+371;INSEAD;2.6853;48.4054;1941-1951;3
+372;Illinois Institute of Technology;-87.6283;41.8347;1921-1941;1
+373;Illinois Wesleyan University;-88.9914;40.4906;1861-1901;2
+374;Indian Institute of Management Ahmedabad;72.5363;23.0317;1941-1951;1
+375;Indian Institute of Management Ahmedabad;72.5363;23.0317;1951-1961;1
+376;Indian Institute of Management Ahmedabad;72.5363;23.0317;1961-1971;1
+377;Indian Institute of Social Welfare and Business Management;88.3608;22.5762;1941-1951;1
+378;Indian Institute of Technology Bombay;72.9154;19.1336;1971-2001;1
+379;Indian Institute of Technology Kanpur;80.2349;26.5114;1951-1961;1
+380;Indiana University;-86.5;39.1667;1921-1941;1
+381;Indiana University;-86.5;39.1667;1941-1951;2
+382;Indiana University;-86.5;39.1667;1951-1961;1
+383;Indiana University Bloomington;-86.5214;39.1672;1921-1941;1
+384;Indiana University Bloomington;-86.5214;39.1672;1961-1971;1
+385;Instituto Nacional de Matemática Pura e Aplicada;-43.2379;-22.9653;1941-1951;1
+386;Instituto Tecnológico Autónomo de México;-99.2;19.3451;1921-1941;1
+387;Instituto Tecnológico Autónomo de México;-99.2;19.3451;1941-1951;2
+388;Instituto Tecnológico Autónomo de México;-99.2;19.3451;1961-1971;2
+389;International Institute for Management Development;6.62;46.51;1941-1951;1
+390;International Islamic University Malaysia;101.738;3.25278;1921-1941;1
+391;International School of Geneva;6.1725;46.1986;1941-1951;1
+392;Iowa State University;-93.6483;42.0261;1901-1921;1
+393;Iowa State University;-93.6483;42.0261;1921-1941;2
+394;Iowa State University;-93.6483;42.0261;1941-1951;1
+395;Iowa State University;-93.6483;42.0261;1951-1961;1
+396;Iowa State University;-93.6483;42.0261;1961-1971;1
+397;Isfahan University of Technology;51.532;32.718;1951-1961;1
+398;Istanbul Technical University;29.025;41.105;1951-1961;1
+399;Istanbul University;28.9639;41.013;1901-1921;1
+400;Istanbul University;28.9639;41.013;1921-1941;2
+401;Istanbul University;28.9639;41.013;1941-1951;1
+402;Istanbul University;28.9639;41.013;1951-1961;1
+403;Istanbul University;28.9639;41.013;1961-1971;1
+404;Istanbul University;28.9639;41.013;1971-2001;1
+405;Italy;12.4833;43.0;1961-1971;1
+406;Jagiellonian University;19.9328;50.0608;1771-1861;1
+407;Jagiellonian University;19.9328;50.0608;1861-1901;1
+408;Jagiellonian University;19.9328;50.0608;1921-1941;1
+409;Jahangirnagar University;90.2671;23.8824;1951-1961;2
+410;Jakarta;106.817;-6.2;1921-1941;1
+411;James Cook University;146.758;-19.3278;1951-1961;1
+412;Jamia Millia Islamia;77.2802;28.5616;1951-1961;1
+413;Jan Długosz University;19.1159;50.8103;1971-2001;1
+414;Jawaharlal Nehru University;77.1703;28.5458;1951-1961;2
+415;Jawaharlal Nehru University;77.1703;28.5458;1961-1971;1
+416;Jesus College, Cambridge;0.123333;52.2092;1921-1941;2
+417;Jesus College, Oxford;-1.2569;51.7534;1921-1941;2
+418;Jesus College, Oxford;-1.2569;51.7534;1961-1971;1
+419;Johns Hopkins University;-76.6203;39.3289;1771-1861;1
+420;Johns Hopkins University;-76.6203;39.3289;1861-1901;3
+421;Johns Hopkins University;-76.6203;39.3289;1901-1921;1
+422;Johns Hopkins University;-76.6203;39.3289;1921-1941;10
+423;Johns Hopkins University;-76.6203;39.3289;1941-1951;4
+424;Johns Hopkins University;-76.6203;39.3289;1951-1961;5
+425;Johns Hopkins University;-76.6203;39.3289;1961-1971;2
+426;Jorge Tadeo Lozano University;-74.0676;4.6067;1941-1951;1
+427;Jorge Tadeo Lozano University;-74.0676;4.6067;1951-1961;1
+428;Jönköping International Business School;14.162;57.7782;1961-1971;1
+429;KU Leuven;4.7;50.878;1951-1961;1
+430;Kakatiya University;79.5519;18.0281;1941-1951;1
+431;Kalamazoo College;-85.601;42.29;1971-2001;1
+432;Kansas State University;-96.5808;39.1917;1861-1901;1
+433;Karlsruhe;8.40395;49.0092;1861-1901;1
+434;Karlsruhe Institute of Technology;8.41167;49.0094;1861-1901;1
+435;Karlsruhe Institute of Technology;8.41167;49.0094;1961-1971;1
+436;Karlsruhe Institute of Technology;8.41167;49.0094;1971-2001;1
+437;Kazan Federal University;49.1219;55.7907;1971-2001;1
+438;Kazimierz Pułaski University of Technology and Humanities in Radom;21.1667;51.4;1951-1961;1
+439;Keio University;139.743;35.6492;1941-1951;1
+440;Kellogg School of Management;-87.6751;42.0504;1941-1951;1
+441;Kellogg School of Management;-87.6751;42.0504;1951-1961;1
+442;Kent State University College of Podiatric Medicine;-81.648;41.4006;1921-1941;1
+443;Khalsa College, Amritsar;74.8356;31.6339;1921-1941;1
+444;Kharkiv National University of Economics;36.2239;50.0139;1901-1921;1
+445;Kielce University of Technology;20.64;50.8786;1951-1961;1
+446;Kim Il-sung University;125.768;39.0581;1961-1971;1
+447;King's College London;-0.116111;51.5119;1771-1861;1
+448;King's College London;-0.116111;51.5119;1941-1951;1
+449;King's College, Cambridge;0.1162;52.2043;1861-1901;3
+450;King's College, Cambridge;0.1162;52.2043;1921-1941;4
+451;King's College, Cambridge;0.1162;52.2043;1941-1951;5
+452;King's College, Cambridge;0.1162;52.2043;1951-1961;1
+453;King's College, Cambridge;0.1162;52.2043;1961-1971;3
+454;Kraków University of Economics;19.9536;50.0683;1941-1951;1
+455;Krannert School of Management;-86.9111;40.4237;1971-2001;1
+456;Kyiv National Economic University;30.4408;50.4564;1921-1941;1
+457;Kyiv National Economic University;30.4408;50.4564;1941-1951;1
+458;Kyiv National Economic University;30.4408;50.4564;1971-2001;1
+459;Kyiv National University of Trade and Economics;30.6381;50.4658;1971-2001;1
+460;Kyoto University;135.781;35.0262;1921-1941;1
+461;Kyoto University;135.781;35.0262;1941-1951;1
+462;Kyoto University;135.781;35.0262;1951-1961;1
+463;La Trobe University;145.048;-37.7218;1951-1961;1
+464;Lady Margaret Hall, Oxford;-1.25404;51.7648;1941-1951;1
+465;Lahore;74.3436;31.5497;1921-1941;1
+466;Lahore University of Management Sciences;74.4111;31.47;1971-2001;1
+467;Lancaster University;-2.78556;54.0103;1941-1951;1
+468;Lawrenceville School;-74.7249;40.2941;1921-1941;1
+469;Lehman College;-73.8939;40.8725;1941-1951;1
+470;Leiden University;4.48695;52.1561;1771-1861;1
+471;Leiden University;4.48695;52.1561;1901-1921;2
+472;Leiden University;4.48695;52.1561;1921-1941;2
+473;Leiden University;4.48695;52.1561;1941-1951;3
+474;Leiden University;4.48695;52.1561;1951-1961;1
+475;Leipzig University;12.3786;51.3389;1771-1861;1
+476;Leipzig University;12.3786;51.3389;1901-1921;1
+477;Linacre College, Oxford;-1.24984;51.7593;1961-1971;1
+478;Lincoln College, Oxford;-1.25591;51.7533;1771-1861;1
+479;Lincoln College, Oxford;-1.25591;51.7533;1961-1971;1
+480;Lincoln University (Pennsylvania);-75.9278;39.8083;1961-1971;1
+481;Lincoln's Inn;-0.114578;51.5171;1921-1941;1
+482;Lingnan University (Guangzhou);113.299;23.1006;1921-1941;1
+483;Linköping University;15.5769;58.3992;1961-1971;1
+484;Lithuanian University of Educational Sciences;25.2613;54.6968;1961-1971;1
+485;London Business School;-0.160833;51.5264;1951-1961;1
+486;London School of Dramatic Art;-0.176;51.4934;1921-1941;1
+487;London School of Economics;-0.116667;51.5139;1861-1901;5
+488;London School of Economics;-0.116667;51.5139;1901-1921;18
+489;London School of Economics;-0.116667;51.5139;1921-1941;22
+490;London School of Economics;-0.116667;51.5139;1941-1951;20
+491;London School of Economics;-0.116667;51.5139;1951-1961;23
+492;London School of Economics;-0.116667;51.5139;1961-1971;22
+493;London School of Economics;-0.116667;51.5139;1971-2001;6
+494;Los Angeles City College;-118.293;34.087;1901-1921;1
+495;Loughborough University;-1.22861;52.7683;1961-1971;1
+496;Louisiana State University;-91.1783;30.4145;1921-1941;1
+497;Loyola College, Chennai;80.234;13.062;1941-1951;1
+498;Loyola Marymount University;-118.418;33.97;1961-1971;1
+499;Lucknow;80.95;26.85;1921-1941;1
+500;Ludwig Maximilian University of Munich;11.5803;48.1508;1861-1901;1
+501;Ludwig Maximilian University of Munich;11.5803;48.1508;1901-1921;2
+502;Ludwig Maximilian University of Munich;11.5803;48.1508;1921-1941;2
+503;Ludwig Maximilian University of Munich;11.5803;48.1508;1961-1971;3
+504;Ludwig Maximilian University of Munich;11.5803;48.1508;1971-2001;1
+505;Lumière University Lyon 2;4.83722;45.7508;1951-1961;1
+506;Lund University;13.1933;55.7058;1861-1901;2
+507;Lund University;13.1933;55.7058;1921-1941;2
+508;Lund University;13.1933;55.7058;1941-1951;2
+509;Lund University;13.1933;55.7058;1961-1971;1
+510;Lusíada University;-9.192;38.6981;1961-1971;1
+511;MIT Sloan School of Management;-71.0838;42.3607;1901-1921;1
+512;MIT Sloan School of Management;-71.0838;42.3607;1941-1951;1
+513;MIT Sloan School of Management;-71.0838;42.3607;1961-1971;1
+514;Madison Business College;-89.5178;42.9953;1921-1941;1
+515;Madrid;-3.71667;40.4167;1901-1921;1
+516;Magdalen College, Oxford;-1.24708;51.7524;1921-1941;1
+517;Magdalene College, Cambridge;0.1165;52.2105;1901-1921;1
+518;Magdalene College, Cambridge;0.1165;52.2105;1921-1941;1
+519;Maharaja Sayajirao University of Baroda;73.186;22.3099;1941-1951;1
+520;Makerere University;32.5675;0.335;1921-1941;1
+521;Makerere University;32.5675;0.335;1941-1951;2
+522;Makerere University;32.5675;0.335;1951-1961;4
+523;Makerere University;32.5675;0.335;1961-1971;5
+524;Makerere University;32.5675;0.335;1971-2001;2
+525;Maliyadeva College;80.3595;7.48736;1921-1941;1
+526;Malvern College;-2.3261;52.1042;1901-1921;1
+527;Marmara University;29.0536;40.9861;1961-1971;1
+528;Martin Luther University of Halle-Wittenberg;11.9689;51.4864;1771-1861;2
+529;Martin Luther University of Halle-Wittenberg;11.9689;51.4864;1861-1901;1
+530;Masaryk University;16.605;49.1986;1961-1971;1
+531;Massachusetts Institute of Technology;-71.092;42.36;1861-1901;2
+532;Massachusetts Institute of Technology;-71.092;42.36;1901-1921;3
+533;Massachusetts Institute of Technology;-71.092;42.36;1921-1941;20
+534;Massachusetts Institute of Technology;-71.092;42.36;1941-1951;27
+535;Massachusetts Institute of Technology;-71.092;42.36;1951-1961;21
+536;Massachusetts Institute of Technology;-71.092;42.36;1961-1971;17
+537;Massachusetts Institute of Technology;-71.092;42.36;1971-2001;5
+538;Massachusetts Institute of Technology School of Engineering;-71.0936;42.3616;1941-1951;1
+539;Massey University;175.617;-40.3848;1951-1961;1
+540;Matej Bel University;19.1455;48.7331;1971-2001;1
+541;McGill University;-59.5833;13.1667;1901-1921;1
+542;McGill University;-59.5833;13.1667;1921-1941;3
+543;McGill University;-59.5833;13.1667;1941-1951;4
+544;McGill University;-59.5833;13.1667;1951-1961;1
+545;McGill University;-59.5833;13.1667;1961-1971;1
+546;McMaster University;-79.9189;43.2633;1941-1951;3
+547;McMaster University;-79.9189;43.2633;1951-1961;3
+548;Memorial University of Newfoundland;-52.7327;47.572;1951-1961;1
+549;Merton College, Oxford;-1.252;51.751;1861-1901;1
+550;Merton College, Oxford;-1.252;51.751;1941-1951;1
+551;Merton College, Oxford;-1.252;51.751;1951-1961;1
+552;Mfantsipim School;-1.251;5.119;1951-1961;1
+553;Miami University;-84.7347;39.5119;1941-1951;1
+554;Miami University;-84.7347;39.5119;1961-1971;1
+555;Michigan State University;-84.48;42.725;1921-1941;1
+556;Michigan State University;-84.48;42.725;1941-1951;4
+557;Michigan State University;-84.48;42.725;1951-1961;2
+558;Middle Temple;-0.112;51.5125;1861-1901;1
+559;Middle Tennessee State University;-86.365;35.849;1901-1921;1
+560;Mines ParisTech;2.33919;48.845;1771-1861;1
+561;Mines ParisTech;2.33919;48.845;1941-1951;1
+562;Minzu University of China;116.317;39.9483;1961-1971;1
+563;Mississippi State University;-88.789;33.454;1941-1951;1
+564;Moldova State University;28.8235;47.0185;1951-1961;2
+565;Moldova State University;28.8235;47.0185;1961-1971;2
+566;Moldova State University;28.8235;47.0185;1971-2001;1
+567;Monash University;145.138;-37.9083;1941-1951;2
+568;Monash University;145.138;-37.9083;1951-1961;1
+569;Monash University;145.138;-37.9083;1971-2001;1
+570;Monmouth College;-90.6372;40.9144;1861-1901;1
+571;Morgan State University;-76.585;39.344;1901-1921;1
+572;Moscow Institute of Physics and Technology;37.5214;55.9294;1921-1941;1
+573;Moscow State Institute of International Relations;37.4869;55.6722;1961-1971;1
+574;Moscow State University;37.5286;55.7039;1921-1941;3
+575;Moscow State University;37.5286;55.7039;1951-1961;3
+576;Moscow State University;37.5286;55.7039;1961-1971;6
+577;Moscow State University;37.5286;55.7039;1971-2001;2
+578;Moscow State University of Instrument Engineering and Computer Science;37.7014;55.7939;1971-2001;1
+579;Mount Holyoke College;-72.5745;42.2556;1901-1921;1
+580;Mumbai;72.8258;18.975;1921-1941;1
+581;Murari Chand College;91.9008;24.9045;1921-1941;1
+582;Namilyango College;32.7172;0.338611;1921-1941;1
+583;National Autonomous University of Mexico;-99.1872;19.3289;1901-1921;4
+584;National Autonomous University of Mexico;-99.1872;19.3289;1921-1941;2
+585;National Autonomous University of Mexico;-99.1872;19.3289;1941-1951;1
+586;National Autonomous University of Mexico;-99.1872;19.3289;1951-1961;1
+587;National Cheng Kung University;120.217;23.0;1941-1951;1
+588;National Chengchi University;121.575;24.987;1951-1961;1
+589;National Institute of Development Administration;100.653;13.7696;1951-1961;1
+590;National Polytechnic University of Armenia;44.5231;40.1911;1961-1971;1
+591;National Taiwan University;121.536;25.016;1921-1941;1
+592;National Technical University of Athens;23.7316;37.9879;1941-1951;1
+593;National University of Colombia;-74.0828;4.63556;1941-1951;1
+594;National University of Córdoba;-64.1878;-31.4375;1941-1951;3
+595;National University of La Plata;-57.9514;-34.913;1951-1961;1
+596;National University of La Plata;-57.9514;-34.913;1961-1971;1
+597;National University of San Marcos;-77.0833;-12.0583;1921-1941;2
+598;National University of San Marcos;-77.0833;-12.0583;1941-1951;1
+599;National University of San Marcos;-77.0833;-12.0583;1951-1961;1
+600;National University of Singapore;103.777;1.29556;1961-1971;1
+601;National and Kapodistrian University of Athens;23.7787;37.9682;1901-1921;2
+602;National and Kapodistrian University of Athens;23.7787;37.9682;1941-1951;1
+603;National and Kapodistrian University of Athens;23.7787;37.9682;1951-1961;3
+604;National and Kapodistrian University of Athens;23.7787;37.9682;1961-1971;1
+605;Netherlands;4.88333;52.3667;1941-1951;1
+606;New College, Oxford;-1.25129;51.7543;1861-1901;1
+607;New College, Oxford;-1.25129;51.7543;1901-1921;1
+608;New College, Oxford;-1.25129;51.7543;1941-1951;1
+609;New College, Oxford;-1.25129;51.7543;1971-2001;1
+610;New College, Toronto;-79.4004;43.6619;1941-1951;1
+611;New Economic School;37.394;55.698;1971-2001;1
+612;New York University;-73.995;40.73;1901-1921;3
+613;New York University;-73.995;40.73;1921-1941;6
+614;New York University;-73.995;40.73;1941-1951;1
+615;New York University;-73.995;40.73;1951-1961;3
+616;New York University;-73.995;40.73;1961-1971;4
+617;New York University;-73.995;40.73;1971-2001;3
+618;New Zealand;174.783;-41.3;1941-1951;1
+619;Newcastle University;-1.615;54.978;1941-1951;1
+620;Newcastle University;-1.615;54.978;1951-1961;1
+621;Newnham College, Cambridge;0.1077;52.1995;1771-1861;1
+622;Nicholls State University;-90.8027;29.7903;1951-1961;1
+623;Nkumba University;32.5075;0.095;1941-1951;1
+624;North Carolina A&T State University;-79.7736;36.0754;1941-1951;1
+625;North Carolina State University;-78.6706;35.7872;1921-1941;1
+626;North Carolina Wesleyan College;-77.7762;36.0175;1961-1971;1
+627;North Dakota State University;-96.8;46.8917;1921-1941;1
+628;North Dakota State University;-96.8;46.8917;1941-1951;1
+629;North Shore Country Day School;-87.7292;42.0986;1941-1951;1
+630;Northern Michigan University;-87.4053;46.559;1961-1971;1
+631;Northwestern University;-87.6739;42.0548;1901-1921;2
+632;Northwestern University;-87.6739;42.0548;1921-1941;4
+633;Northwestern University;-87.6739;42.0548;1941-1951;4
+634;Northwestern University;-87.6739;42.0548;1951-1961;4
+635;Northwestern University;-87.6739;42.0548;1961-1971;2
+636;Norwegian School of Economics;5.30206;60.423;1941-1951;2
+637;Norwegian School of Economics;5.30206;60.423;1951-1961;1
+638;Norwegian School of Economics;5.30206;60.423;1961-1971;2
+639;Nottingham Trent University;-1.152;52.9564;1961-1971;1
+640;Novosibirsk State University;83.094;54.846;1941-1951;1
+641;Novosibirsk State University;83.094;54.846;1951-1961;1
+642;Nuffield College, Oxford;-1.26292;51.7528;1921-1941;4
+643;Nuffield College, Oxford;-1.26292;51.7528;1941-1951;2
+644;Nuffield College, Oxford;-1.26292;51.7528;1951-1961;5
+645;Nuffield College, Oxford;-1.26292;51.7528;1971-2001;1
+646;Nyenrode Business University;5.006;52.161;1961-1971;1
+647;Oberlin College;-82.2186;41.2929;1951-1961;3
+648;Occidental College;-118.211;34.1272;1861-1901;1
+649;Occidental College;-118.211;34.1272;1951-1961;1
+650;Odessa University;30.7312;46.4875;1861-1901;1
+651;Ohio State University;-83.0285;40.0053;1941-1951;1
+652;Ohio State University;-83.0285;40.0053;1951-1961;1
+653;Ohio Wesleyan University;-83.0667;40.2967;1861-1901;1
+654;Omsk State University;73.3578;54.9925;1961-1971;1
+655;Oregon State University;-123.279;44.564;1921-1941;1
+656;Oriel College, Oxford;-1.2536;51.7517;1901-1921;2
+657;Osaka University;135.527;34.8192;1951-1961;1
+658;Osmania University;78.529;17.411;1941-1951;1
+659;Ottawa University;-95.2655;38.6026;1961-1971;1
+660;Padjadjaran University;107.617;-6.89333;1941-1951;1
+661;Palaiseau;2.2457;48.7145;1941-1951;1
+662;Panjab University;76.7682;30.758;1921-1941;1
+663;Paris Diderot University;2.38083;48.8297;1941-1951;1
+664;Paris Institute of Statistics;2.3565;48.8284;1901-1921;1
+665;Paris School of Economics;2.33122;48.8224;1971-2001;3
+666;Paris-Sorbonne University;2.34278;48.8486;1941-1951;1
+667;Peking University;116.305;39.9897;1921-1941;1
+668;Peking University;116.305;39.9897;1951-1961;1
+669;Pembroke College, Cambridge;0.12;52.202;1861-1901;1
+670;Pembroke College, Cambridge;0.12;52.202;1941-1951;1
+671;Pennsylvania State University;-77.8628;40.7961;1971-2001;1
+672;Pepperdine University;-118.708;34.0387;1961-1971;1
+673;Perm State University;56.1867;58.0075;1971-2001;1
+674;Peterhouse, Cambridge;0.1184;52.2009;1771-1861;1
+675;Peterhouse, Cambridge;0.1184;52.2009;1941-1951;1
+676;Phi Beta Kappa;-77.0421;38.9115;1941-1951;1
+677;Pierre Mendès-France University;5.77111;45.1897;1961-1971;1
+678;Plekhanov Russian University of Economics;37.6281;55.7278;1961-1971;3
+679;Politehnica University of Bucharest;26.0514;44.4383;1901-1921;1
+680;Polytechnic School of the University of São Paulo;-46.7297;-23.555;1941-1951;2
+681;Polytechnic University of Turin;7.66108;45.0631;1771-1861;1
+682;Pontifical Catholic University of Argentina;-58.3656;-34.6145;1941-1951;2
+683;Pontifical Catholic University of Argentina;-58.3656;-34.6145;1951-1961;1
+684;Pontifical Catholic University of Argentina;-58.3656;-34.6145;1961-1971;1
+685;Pontifical Catholic University of Chile;-70.6408;-33.4411;1921-1941;2
+686;Pontifical Catholic University of Chile;-70.6408;-33.4411;1941-1951;2
+687;Pontifical Catholic University of Chile;-70.6408;-33.4411;1951-1961;3
+688;Pontifical Catholic University of Chile;-70.6408;-33.4411;1961-1971;1
+689;Pontifical Catholic University of Peru;-77.0794;-12.0694;1961-1971;1
+690;Pontifical Catholic University of Rio de Janeiro;-43.2324;-22.9793;1941-1951;1
+691;Pontifical Catholic University of Rio de Janeiro;-43.2324;-22.9793;1951-1961;3
+692;Pontifical Catholic University of Rio de Janeiro;-43.2324;-22.9793;1971-2001;1
+693;Pontifical Xavierian University;-74.0648;4.62894;1901-1921;1
+694;Pontifical Xavierian University;-74.0648;4.62894;1941-1951;4
+695;Pontifical Xavierian University;-74.0648;4.62894;1951-1961;3
+696;Pontifical Xavierian University;-74.0648;4.62894;1961-1971;1
+697;Pontifical Xavierian University;-74.0648;4.62894;1971-2001;1
+698;Presidency University, Kolkata;88.3622;22.5764;1951-1961;1
+699;Princeton University;-74.6561;40.3453;1771-1861;1
+700;Princeton University;-74.6561;40.3453;1861-1901;2
+701;Princeton University;-74.6561;40.3453;1901-1921;3
+702;Princeton University;-74.6561;40.3453;1921-1941;19
+703;Princeton University;-74.6561;40.3453;1941-1951;19
+704;Princeton University;-74.6561;40.3453;1951-1961;20
+705;Princeton University;-74.6561;40.3453;1961-1971;10
+706;Princeton University;-74.6561;40.3453;1971-2001;1
+707;Princeton University Department of Economics;-74.6547;40.3484;1861-1901;1
+708;Providence College;-71.435;41.8439;1951-1961;1
+709;Purdue University;-86.929;40.424;1921-1941;2
+710;Purdue University;-86.929;40.424;1951-1961;3
+711;Purdue University;-86.929;40.424;1971-2001;1
+712;Qatar University;51.4889;25.375;1961-1971;1
+713;Queen Mary University of London;-0.04;51.523;1941-1951;1
+714;Queen's College, Hong Kong;114.192;22.2809;1921-1941;1
+715;Queen's University Belfast;-5.93472;54.5842;1921-1941;1
+716;Queen's University Belfast;-5.93472;54.5842;1961-1971;1
+717;Queen's University at Kingston;-76.495;44.225;1861-1901;1
+718;Queen's University at Kingston;-76.495;44.225;1941-1951;4
+719;Queen's University at Kingston;-76.495;44.225;1951-1961;1
+720;Queen's University at Kingston;-76.495;44.225;1961-1971;2
+721;Queens College, City University of New York;-73.817;40.737;1921-1941;1
+722;Queens College, City University of New York;-73.817;40.737;1941-1951;1
+723;Queens' College, Cambridge;0.1147;52.2019;1921-1941;1
+724;Queens' College, Cambridge;0.1147;52.2019;1941-1951;2
+725;Queens' College, Cambridge;0.1147;52.2019;1961-1971;1
+726;Ramakrishna Mission Vivekananda College;80.2643;13.0416;1941-1951;1
+727;Reed College;-122.63;45.48;1921-1941;3
+728;Reed College;-122.63;45.48;1941-1951;1
+729;Renmin University of China;116.318;39.9703;1941-1951;2
+730;Rensselaer Polytechnic Institute;-73.6775;42.73;1861-1901;1
+731;Rensselaer Polytechnic Institute;-73.6775;42.73;1941-1951;1
+732;Rensselaer Polytechnic Institute;-73.6775;42.73;1951-1961;1
+733;Republic of China Military Academy;120.366;22.6192;1951-1961;1
+734;Rice University;-95.4028;29.7169;1901-1921;1
+735;Rice University;-95.4028;29.7169;1921-1941;1
+736;Rice University;-95.4028;29.7169;1941-1951;1
+737;Riga Technical University;24.1047;56.9472;1861-1901;1
+738;Robert College;29.035;41.0672;1951-1961;1
+739;Rochester University;-83.1453;42.6672;1951-1961;1
+740;Roosevelt University;-87.6247;41.8761;1921-1941;1
+741;Royal College, Colombo;79.8611;6.90444;1921-1941;2
+742;Royal Military College of Canada;-76.4686;44.2289;1941-1951;1
+743;Royal Military College, Duntroon;149.165;-35.2997;1961-1971;1
+744;Ruhr University Bochum;7.26167;51.4439;1941-1951;1
+745;Ruhr University Bochum;7.26167;51.4439;1961-1971;1
+746;Ruhr University Bochum;7.26167;51.4439;1971-2001;1
+747;Russian Presidential Academy of National Economy and Public Administration;37.4794;55.6672;1971-2001;1
+748;Rutgers University;-74.4481;40.5017;1901-1921;1
+749;Rutgers University;-74.4481;40.5017;1921-1941;1
+750;Rutgers University;-74.4481;40.5017;1941-1951;2
+751;Rutgers University;-74.4481;40.5017;1961-1971;1
+752;SGH Warsaw School of Economics;21.0089;52.2089;1951-1961;2
+753;Saarland University;7.04167;49.2556;1921-1941;2
+754;Saarland University;7.04167;49.2556;1941-1951;1
+755;Saint Gabriel's College;100.506;13.7758;1941-1951;1
+756;Saint Louis University;-90.2339;38.6365;1941-1951;1
+757;Saint Petersburg State University;30.299;59.942;1861-1901;3
+758;Saint Petersburg State University;30.299;59.942;1901-1921;2
+759;Saint Petersburg State University;30.299;59.942;1921-1941;1
+760;Saint Petersburg State University;30.299;59.942;1961-1971;1
+761;Saint Petersburg State University of Economics;30.3264;59.9313;1961-1971;1
+762;San Diego State University;-117.072;32.7753;1961-1971;1
+763;Sant'Anna School of Advanced Studies;10.4029;43.7203;1961-1971;1
+764;Santa Clara University;-121.938;37.3492;1921-1941;1
+765;Sapienza University of Rome;12.5158;41.9033;1861-1901;1
+766;Sapienza University of Rome;12.5158;41.9033;1901-1921;1
+767;Sapienza University of Rome;12.5158;41.9033;1921-1941;4
+768;Sapienza University of Rome;12.5158;41.9033;1941-1951;3
+769;Sapienza University of Rome;12.5158;41.9033;1951-1961;3
+770;Sapienza University of Rome;12.5158;41.9033;1961-1971;1
+771;Sarah Lawrence College;-73.845;40.935;1921-1941;1
+772;School for Advanced Studies in the Social Sciences;2.32676;48.8502;1971-2001;2
+773;Sciences Po;2.32847;48.8542;1941-1951;3
+774;Sciences Po;2.32847;48.8542;1951-1961;1
+775;Sciences Po;2.32847;48.8542;1971-2001;1
+776;Scotch College, Melbourne;145.029;-37.8342;1941-1951;1
+777;Seoul National University;126.952;37.46;1921-1941;2
+778;Seoul National University;126.952;37.46;1941-1951;2
+779;Seoul National University;126.952;37.46;1951-1961;2
+780;Seoul National University;126.952;37.46;1961-1971;1
+781;Shanghai Jiao Tong University;121.43;31.2008;1921-1941;1
+782;Shanghai Jiao Tong University;121.43;31.2008;1951-1961;1
+783;Sharif University of Technology;51.3514;35.7018;1951-1961;1
+784;Sialkot;74.5311;32.4925;1921-1941;1
+785;Sidi Mohamed Ben Abdellah University;-4.98056;34.0333;1961-1971;1
+786;Silliman University;123.307;9.31278;1921-1941;2
+787;Simon Fraser University;-122.916;49.2789;1961-1971;1
+788;Slippery Rock University of Pennsylvania;-80.043;41.062;1951-1961;1
+789;Sofia University;23.335;42.6936;1861-1901;1
+790;Sofia University;23.335;42.6936;1941-1951;1
+791;Sokoine University of Agriculture;37.6572;-6.85139;1941-1951;1
+792;Somerville College, Oxford;-1.26227;51.759;1921-1941;1
+793;Somerville College, Oxford;-1.26227;51.759;1941-1951;1
+794;Somerville College, Oxford;-1.26227;51.759;1961-1971;1
+795;Sophia University;139.732;35.6842;1951-1961;1
+796;Sorbonne;2.34333;48.8486;1971-2001;1
+797;Sorbonne University;2.34056;48.8511;1771-1861;1
+798;Sorbonne University;2.34056;48.8511;1901-1921;1
+799;South Dakota State University;-96.7833;44.3181;1901-1921;1
+800;Ss. Cyril and Methodius University of Skopje;21.4434;42.0004;1951-1961;2
+801;Ss. Cyril and Methodius University of Skopje;21.4434;42.0004;1961-1971;1
+802;Ss. Cyril and Methodius University of Skopje;21.4434;42.0004;1971-2001;1
+803;St Antony's College, Oxford;-1.2629;51.7631;1941-1951;1
+804;St Antony's College, Oxford;-1.2629;51.7631;1951-1961;1
+805;St Antony's College, Oxford;-1.2629;51.7631;1961-1971;1
+806;St Catherine's College, Oxford;-1.2451;51.7571;1951-1961;2
+807;St Cross College, Oxford;-1.26031;51.7565;1971-2001;1
+808;St Hilda's College, Oxford;-1.24533;51.7492;1951-1961;1
+809;St John's College, Cambridge;0.116667;52.2081;1921-1941;3
+810;St John's College, Cambridge;0.116667;52.2081;1941-1951;1
+811;St John's College, Oxford;-1.25861;51.7561;1921-1941;1
+812;St John's College, Oxford;-1.25861;51.7561;1951-1961;1
+813;St John's College, Oxford;-1.25861;51.7561;1961-1971;2
+814;St Joseph's College, Darjeeling;88.2507;27.0593;1961-1971;1
+815;St Peter's College, Oxford;-1.26072;51.7528;1971-2001;1
+816;St. Edward's University;-97.75;30.2333;1951-1961;2
+817;St. George's School of Montreal;-73.5968;45.494;1961-1971;1
+818;St. Joseph's College, Bangalore;77.5964;12.9629;1951-1961;1
+819;St. Mary's University, Texas;-98.5623;29.4531;1921-1941;1
+820;St. Norbert College;-88.0685;44.4453;1941-1951;1
+821;St. Paul's School, Darjeeling;88.2633;27.0325;1921-1941;1
+822;Stanford Graduate School of Business;-122.161;37.428;1961-1971;1
+823;Stanford University;-122.169;37.4282;1901-1921;3
+824;Stanford University;-122.169;37.4282;1921-1941;14
+825;Stanford University;-122.169;37.4282;1941-1951;17
+826;Stanford University;-122.169;37.4282;1951-1961;11
+827;Stanford University;-122.169;37.4282;1961-1971;5
+828;Stanford University;-122.169;37.4282;1971-2001;3
+829;Stellenbosch University;18.8647;-33.9301;1971-2001;1
+830;Stevens Institute of Technology;-74.0239;40.7449;1771-1861;1
+831;Stevens Institute of Technology;-74.0239;40.7449;1921-1941;2
+832;Stockholm School of Economics;18.0572;59.3417;1861-1901;1
+833;Stockholm School of Economics;18.0572;59.3417;1901-1921;1
+834;Stockholm School of Economics;18.0572;59.3417;1951-1961;2
+835;Stockholm University;18.0583;59.3653;1861-1901;2
+836;Stockholm University;18.0583;59.3653;1901-1921;3
+837;Stockholm University;18.0583;59.3653;1941-1951;2
+838;Stockholm University;18.0583;59.3653;1961-1971;2
+839;Stony Brook University;-73.124;40.915;1951-1961;1
+840;Stuyvesant High School;-74.0138;40.7179;1921-1941;1
+841;Stuyvesant High School;-74.0138;40.7179;1941-1951;1
+842;Surendranath College;88.3673;22.5707;1921-1941;1
+843;Swansea University;-3.98056;51.6097;1941-1951;1
+844;Swarthmore College;-75.3539;39.905;1921-1941;4
+845;Swarthmore College;-75.3539;39.905;1941-1951;7
+846;Swarthmore College;-75.3539;39.905;1951-1961;6
+847;Swedish University of Agricultural Sciences;17.663;59.815;1941-1951;1
+848;Sylhet Government Pilot High School;91.8713;24.8887;1921-1941;1
+849;Syracuse University;-76.134;43.0376;1921-1941;2
+850;Syracuse University;-76.134;43.0376;1941-1951;1
+851;Süleyman Demirel University;30.529;37.829;1971-2001;1
+852;Tallinn;24.7453;59.4372;1901-1921;1
+853;Taras Shevchenko National University of Kyiv;30.5113;50.4419;1951-1961;1
+854;Taras Shevchenko National University of Kyiv;30.5113;50.4419;1961-1971;1
+855;Tarbiat Modares University;51.3819;35.7214;1951-1961;1
+856;Tbilisi State University;44.7783;41.71;1961-1971;2
+857;Technical University of Berlin;13.3264;52.5119;1961-1971;2
+858;Technical University of Lisbon;-9.15889;38.7525;1921-1941;1
+859;Technical University of Lisbon;-9.15889;38.7525;1941-1951;2
+860;Technical University of Lisbon;-9.15889;38.7525;1951-1961;3
+861;Technical University of Lisbon;-9.15889;38.7525;1961-1971;2
+862;Technical University of Madrid;-3.7281;40.4492;1941-1951;1
+863;Technical University of Madrid;-3.7281;40.4492;1951-1961;1
+864;Tel Aviv University;34.8014;32.1118;1941-1951;1
+865;Tel Aviv University;34.8014;32.1118;1951-1961;1
+866;Tel Aviv University;34.8014;32.1118;1961-1971;3
+867;Temple University;-75.1544;39.9814;1921-1941;1
+868;Temple University;-75.1544;39.9814;1941-1951;1
+869;Texas A&M University;-96.3436;30.6103;1961-1971;2
+870;Thammasat University;100.49;13.7575;1941-1951;1
+871;Thammasat University;100.49;13.7575;1951-1961;2
+872;Thammasat University;100.49;13.7575;1961-1971;1
+873;The New School;-73.997;40.7356;1901-1921;1
+874;The New School;-73.997;40.7356;1921-1941;1
+875;The New School;-73.997;40.7356;1951-1961;1
+876;The New School;-73.997;40.7356;1961-1971;1
+877;Thomas Edison State University;-74.7684;40.2203;1961-1971;1
+878;Thomas Jefferson High School (Brooklyn);-73.8948;40.6669;1951-1961;1
+879;Tianjin Nankai High School;117.165;39.1306;1921-1941;1
+880;Tilburg University;5.04194;51.5628;1901-1921;1
+881;Tilburg University;5.04194;51.5628;1921-1941;6
+882;Tilburg University;5.04194;51.5628;1941-1951;3
+883;Tilburg University;5.04194;51.5628;1961-1971;2
+884;Tohoku University;140.874;38.2542;1901-1921;1
+885;Tohoku University;140.874;38.2542;1921-1941;1
+886;Tokyo;139.692;35.6897;1921-1941;1
+887;Tokyo Institute of Technology;139.483;35.5139;1941-1951;1
+888;Torcuato di Tella University;-58.4458;-34.5547;1961-1971;1
+889;Toulouse Business School;1.43167;43.6097;1961-1971;1
+890;Tribhuvan University;85.2865;27.6818;1951-1961;1
+891;Tribhuvan University;85.2865;27.6818;1961-1971;1
+892;Trinity College Dublin;-6.2577;53.3444;1771-1861;3
+893;Trinity College Dublin;-6.2577;53.3444;1921-1941;2
+894;Trinity College Dublin;-6.2577;53.3444;1941-1951;1
+895;Trinity College Dublin;-6.2577;53.3444;1951-1961;1
+896;Trinity College, Cambridge;0.1146;52.207;1771-1861;2
+897;Trinity College, Cambridge;0.1146;52.207;1921-1941;3
+898;Trinity College, Cambridge;0.1146;52.207;1951-1961;2
+899;Trinity College, Cambridge;0.1146;52.207;1961-1971;2
+900;Trinity Hall, Cambridge;0.1157;52.2057;1941-1951;1
+901;Tsinghua University;116.327;40.0;1941-1951;1
+902;Tufts University;-71.12;42.406;1861-1901;1
+903;Tufts University;-71.12;42.406;1921-1941;1
+904;Tufts University;-71.12;42.406;1951-1961;1
+905;Tufts University;-71.12;42.406;1961-1971;1
+906;Tuskegee University;-85.7077;32.4302;1921-1941;1
+907;UCL School of Slavonic and East European Studies;-0.1316;51.5254;1951-1961;1
+908;UCLA Anderson School of Management;-118.444;34.0738;1971-2001;1
+909;Uganda Martyrs University;32.0144;0.00361111;1961-1971;1
+910;Ukrainian Academy of Banking of the National Bank of Ukraine;34.7954;50.9056;1951-1961;1
+911;Union Christian College, Merom;-87.5647;39.0508;1861-1901;1
+912;United States Air Force Academy;-104.89;39.01;1941-1951;1
+913;United States Air Force Academy;-104.89;39.01;1961-1971;1
+914;United States Military Academy;-73.958;41.393;1861-1901;1
+915;United States Naval Academy;-76.4851;38.9828;1921-1941;1
+916;Universidad Autónoma de San Luis Potosí;-100.978;22.1528;1941-1951;1
+917;Universidad Católica de Santiago de Guayaquil;-79.9039;-2.18167;1941-1951;1
+918;Universidad Católica de Santiago de Guayaquil;-79.9039;-2.18167;1961-1971;1
+919;Universidad Externado de Colombia;-74.0684;4.5958;1951-1961;1
+920;Universidad Externado de Colombia;-74.0684;4.5958;1961-1971;1
+921;Universidad Externado de Colombia;-74.0684;4.5958;1971-2001;1
+922;Universidad Iberoamericana;-99.2636;19.3711;1951-1961;1
+923;Universidad Iberoamericana;-99.2636;19.3711;1961-1971;1
+924;Universidad de San Carlos de Guatemala;-90.5529;14.5829;1921-1941;1
+925;Universidad de San Carlos de Guatemala;-90.5529;14.5829;1941-1951;1
+926;Universidad de las Américas Puebla;-98.2837;19.0543;1971-2001;1
+927;Universidad del Pacífico (Peru);-77.0483;-12.0839;1951-1961;1
+928;University College Cork;-8.493;51.893;1901-1921;1
+929;University College Dublin;-6.22222;53.3083;1861-1901;2
+930;University College Dublin;-6.22222;53.3083;1901-1921;1
+931;University College Dublin;-6.22222;53.3083;1921-1941;1
+932;University College Dublin;-6.22222;53.3083;1941-1951;4
+933;University College Dublin;-6.22222;53.3083;1951-1961;1
+934;University College Dublin;-6.22222;53.3083;1961-1971;1
+935;University College London;-0.133583;51.5248;1771-1861;3
+936;University College London;-0.133583;51.5248;1861-1901;2
+937;University College London;-0.133583;51.5248;1901-1921;2
+938;University College London;-0.133583;51.5248;1921-1941;2
+939;University College London;-0.133583;51.5248;1941-1951;2
+940;University College London;-0.133583;51.5248;1951-1961;1
+941;University College London;-0.133583;51.5248;1961-1971;3
+942;University College London;-0.133583;51.5248;1971-2001;2
+943;University at Albany, SUNY;-73.8239;42.6862;1921-1941;2
+944;University at Albany, SUNY;-73.8239;42.6862;1951-1961;2
+945;University at Buffalo;-78.7892;43.0;1951-1961;1
+946;University at Buffalo;-78.7892;43.0;1961-1971;1
+947;University of Aberdeen;-2.1;57.165;1941-1951;2
+948;University of Adelaide;138.604;-34.9192;1951-1961;1
+949;University of Alberta;-113.524;53.5244;1921-1941;1
+950;University of Alberta;-113.524;53.5244;1941-1951;1
+951;University of Alberta;-113.524;53.5244;1961-1971;1
+952;University of Amsterdam;4.89028;52.3683;1901-1921;6
+953;University of Amsterdam;4.89028;52.3683;1921-1941;6
+954;University of Amsterdam;4.89028;52.3683;1941-1951;1
+955;University of Amsterdam;4.89028;52.3683;1951-1961;2
+956;University of Amsterdam;4.89028;52.3683;1961-1971;1
+957;University of Amsterdam;4.89028;52.3683;1971-2001;1
+958;University of Antioquia;-75.5684;6.26742;1941-1951;1
+959;University of Arizona;-110.952;32.2317;1941-1951;1
+960;University of Auckland;174.77;-36.85;1941-1951;1
+961;University of Augsburg;10.8983;48.3339;1961-1971;1
+962;University of Banja Luka;17.2117;44.775;1951-1961;1
+963;University of Barcelona;2.16389;41.3867;1901-1921;1
+964;University of Barcelona;2.16389;41.3867;1951-1961;1
+965;University of Barcelona;2.16389;41.3867;1971-2001;1
+966;University of Bari;16.8683;41.1203;1941-1951;1
+967;University of Bari;16.8683;41.1203;1961-1971;1
+968;University of Basel;7.58333;47.5586;1901-1921;1
+969;University of Basel;7.58333;47.5586;1961-1971;1
+970;University of Belgrade;20.4574;44.8184;1921-1941;1
+971;University of Belgrade;20.4574;44.8184;1941-1951;3
+972;University of Belgrade;20.4574;44.8184;1951-1961;1
+973;University of Belgrade;20.4574;44.8184;1961-1971;1
+974;University of Belgrade;20.4574;44.8184;1971-2001;2
+975;University of Belgrade Faculty of Law;20.4721;44.8072;1941-1951;1
+976;University of Belgrano;-58.4437;-34.5641;1961-1971;1
+977;University of Birmingham;-1.93056;52.4506;1921-1941;1
+978;University of Birmingham;-1.93056;52.4506;1941-1951;2
+979;University of Birmingham;-1.93056;52.4506;1951-1961;1
+980;University of Birmingham;-1.93056;52.4506;1961-1971;4
+981;University of Birmingham;-1.93056;52.4506;1971-2001;1
+982;University of Bologna;11.3428;44.4939;1771-1861;1
+983;University of Bologna;11.3428;44.4939;1921-1941;1
+984;University of Bologna;11.3428;44.4939;1951-1961;1
+985;University of Bologna;11.3428;44.4939;1961-1971;2
+986;University of Bonn;7.10222;50.7339;1771-1861;2
+987;University of Bonn;7.10222;50.7339;1861-1901;1
+988;University of Bonn;7.10222;50.7339;1901-1921;1
+989;University of Bonn;7.10222;50.7339;1921-1941;2
+990;University of Bonn;7.10222;50.7339;1941-1951;1
+991;University of Bonn;7.10222;50.7339;1951-1961;2
+992;University of Bonn;7.10222;50.7339;1961-1971;2
+993;University of Bordeaux;-0.608465;44.8172;1921-1941;1
+994;University of Brasília;-47.8664;-15.7614;1951-1961;1
+995;University of Brasília;-47.8664;-15.7614;1961-1971;1
+996;University of Bremen;8.85361;53.1086;1941-1951;1
+997;University of Bristol;-2.60444;51.4564;1941-1951;2
+998;University of British Columbia;-123.253;49.2611;1901-1921;1
+999;University of British Columbia;-123.253;49.2611;1921-1941;2
+1000;University of British Columbia;-123.253;49.2611;1941-1951;1
+1001;University of British Columbia;-123.253;49.2611;1951-1961;2
+1002;University of British Columbia;-123.253;49.2611;1961-1971;1
+1003;University of Bucharest;26.1011;44.4356;1861-1901;1
+1004;University of Bucharest;26.1011;44.4356;1901-1921;1
+1005;University of Bucharest;26.1011;44.4356;1921-1941;1
+1006;University of Bucharest;26.1011;44.4356;1951-1961;1
+1007;University of Bucharest;26.1011;44.4356;1971-2001;1
+1008;University of Buenos Aires;-58.3731;-34.5997;1901-1921;2
+1009;University of Buenos Aires;-58.3731;-34.5997;1921-1941;5
+1010;University of Buenos Aires;-58.3731;-34.5997;1941-1951;2
+1011;University of Buenos Aires;-58.3731;-34.5997;1951-1961;2
+1012;University of Buenos Aires;-58.3731;-34.5997;1961-1971;5
+1013;University of Buenos Aires;-58.3731;-34.5997;1971-2001;2
+1014;University of Burgundy;5.07083;47.3125;1951-1961;1
+1015;University of Burundi;29.3844;-3.37889;1951-1961;1
+1016;University of Cagliari;9.115;39.217;1921-1941;1
+1017;University of Calcutta;88.3619;22.5764;1771-1861;1
+1018;University of Calcutta;88.3619;22.5764;1921-1941;3
+1019;University of Calcutta;88.3619;22.5764;1941-1951;2
+1020;University of Calcutta;88.3619;22.5764;1951-1961;2
+1021;University of Calcutta;88.3619;22.5764;1961-1971;2
+1022;University of Calgary;-114.133;51.0775;1951-1961;2
+1023;University of California, Berkeley;-122.259;37.8719;1861-1901;1
+1024;University of California, Berkeley;-122.259;37.8719;1901-1921;5
+1025;University of California, Berkeley;-122.259;37.8719;1921-1941;14
+1026;University of California, Berkeley;-122.259;37.8719;1941-1951;11
+1027;University of California, Berkeley;-122.259;37.8719;1951-1961;11
+1028;University of California, Berkeley;-122.259;37.8719;1961-1971;5
+1029;University of California, Berkeley;-122.259;37.8719;1971-2001;1
+1030;University of California, Davis;-121.75;38.54;1941-1951;2
+1031;University of California, Davis;-121.75;38.54;1951-1961;1
+1032;University of California, Irvine;-117.842;33.6456;1951-1961;1
+1033;University of California, Los Angeles;-118.445;34.0694;1901-1921;2
+1034;University of California, Los Angeles;-118.445;34.0694;1921-1941;3
+1035;University of California, Los Angeles;-118.445;34.0694;1941-1951;2
+1036;University of California, Los Angeles;-118.445;34.0694;1951-1961;2
+1037;University of California, Los Angeles;-118.445;34.0694;1961-1971;2
+1038;University of California, Los Angeles;-118.445;34.0694;1971-2001;1
+1039;University of California, San Diego;-117.234;32.8801;1951-1961;1
+1040;University of California, San Diego;-117.234;32.8801;1961-1971;3
+1041;University of Cambridge;0.117222;52.2053;1771-1861;3
+1042;University of Cambridge;0.117222;52.2053;1861-1901;1
+1043;University of Cambridge;0.117222;52.2053;1901-1921;5
+1044;University of Cambridge;0.117222;52.2053;1921-1941;15
+1045;University of Cambridge;0.117222;52.2053;1941-1951;11
+1046;University of Cambridge;0.117222;52.2053;1951-1961;7
+1047;University of Cambridge;0.117222;52.2053;1961-1971;1
+1048;University of Cambridge;0.117222;52.2053;1971-2001;1
+1049;University of Canberra;149.087;-35.2389;1961-1971;1
+1050;University of Canterbury;172.582;-43.5233;1921-1941;1
+1051;University of Canterbury;172.582;-43.5233;1941-1951;3
+1052;University of Canterbury;172.582;-43.5233;1951-1961;1
+1053;University of Cape Town;18.4606;-33.9575;1921-1941;1
+1054;University of Cape Town;18.4606;-33.9575;1961-1971;1
+1055;University of Cape Town;18.4606;-33.9575;1971-2001;1
+1056;University of Cauca;-76.6047;2.44083;1771-1861;1
+1057;University of Chicago;-87.5997;41.7897;1861-1901;8
+1058;University of Chicago;-87.5997;41.7897;1901-1921;10
+1059;University of Chicago;-87.5997;41.7897;1921-1941;33
+1060;University of Chicago;-87.5997;41.7897;1941-1951;18
+1061;University of Chicago;-87.5997;41.7897;1951-1961;11
+1062;University of Chicago;-87.5997;41.7897;1961-1971;7
+1063;University of Chicago;-87.5997;41.7897;1971-2001;2
+1064;University of Chicago Booth School of Business;-87.5957;41.7891;1971-2001;1
+1065;University of Coimbra;-8.4265;40.2074;1861-1901;1
+1066;University of Cologne;6.92861;50.9281;1901-1921;1
+1067;University of Cologne;6.92861;50.9281;1921-1941;3
+1068;University of Cologne;6.92861;50.9281;1941-1951;2
+1069;University of Cologne;6.92861;50.9281;1961-1971;4
+1070;University of Cologne;6.92861;50.9281;1971-2001;1
+1071;University of Colorado;-104.983;39.7452;1921-1941;1
+1072;University of Colorado;-104.983;39.7452;1941-1951;1
+1073;University of Colorado;-104.983;39.7452;1961-1971;1
+1074;University of Colorado Boulder;-105.267;40.0067;1921-1941;1
+1075;University of Colorado Boulder;-105.267;40.0067;1941-1951;1
+1076;University of Colorado Boulder;-105.267;40.0067;1951-1961;1
+1077;University of Connecticut;-72.2525;41.8072;1901-1921;1
+1078;University of Connecticut;-72.2525;41.8072;1941-1951;3
+1079;University of Copenhagen;12.5725;55.6797;1901-1921;1
+1080;University of Copenhagen;12.5725;55.6797;1921-1941;1
+1081;University of Copenhagen;12.5725;55.6797;1941-1951;1
+1082;University of Copenhagen;12.5725;55.6797;1951-1961;1
+1083;University of Copenhagen;12.5725;55.6797;1961-1971;3
+1084;University of Costa Rica;-84.0506;9.93583;1921-1941;1
+1085;University of Costa Rica;-84.0506;9.93583;1951-1961;1
+1086;University of Craiova;23.8008;44.3192;1941-1951;1
+1087;University of Dar es Salaam;39.2033;-6.78056;1941-1951;1
+1088;University of Delaware;-75.7511;39.6783;1951-1961;1
+1089;University of Delhi;77.21;28.69;1921-1941;2
+1090;University of Delhi;77.21;28.69;1941-1951;4
+1091;University of Delhi;77.21;28.69;1951-1961;5
+1092;University of Delhi;77.21;28.69;1961-1971;1
+1093;University of Denver;-104.962;39.6783;1951-1961;1
+1094;University of Deusto;-2.9375;43.2708;1941-1951;1
+1095;University of Deusto;-2.9375;43.2708;1951-1961;1
+1096;University of East Anglia;1.24167;52.6217;1951-1961;3
+1097;University of East Anglia;1.24167;52.6217;1961-1971;2
+1098;University of Economics Varna;27.9235;43.209;1971-2001;1
+1099;University of Economics, Prague;14.4411;50.0841;1941-1951;4
+1100;University of Economics, Prague;14.4411;50.0841;1951-1961;4
+1101;University of Edinburgh;-3.18719;55.9474;1771-1861;1
+1102;University of Edinburgh;-3.18719;55.9474;1901-1921;1
+1103;University of Edinburgh;-3.18719;55.9474;1921-1941;2
+1104;University of Edinburgh;-3.18719;55.9474;1961-1971;1
+1105;University of Essex;0.94487;51.8763;1941-1951;2
+1106;University of Essex;0.94487;51.8763;1951-1961;2
+1107;University of Essex;0.94487;51.8763;1961-1971;1
+1108;University of Florence;11.2586;43.7778;1921-1941;2
+1109;University of Florence;11.2586;43.7778;1951-1961;2
+1110;University of Florida;-82.3494;29.6483;1941-1951;3
+1111;University of Florida;-82.3494;29.6483;1951-1961;1
+1112;University of Fribourg;7.15174;46.8063;1921-1941;1
+1113;University of Gdańsk;18.5686;54.3994;1941-1951;3
+1114;University of Gdańsk;18.5686;54.3994;1951-1961;2
+1115;University of Georgia;-83.3745;33.9558;1961-1971;1
+1116;University of Ghana;-0.186944;5.65083;1921-1941;1
+1117;University of Ghana;-0.186944;5.65083;1941-1951;2
+1118;University of Ghana;-0.186944;5.65083;1951-1961;2
+1119;University of Giessen;8.67639;50.5808;1961-1971;1
+1120;University of Glamorgan;-3.32722;51.5892;1951-1961;1
+1121;University of Glasgow;-4.2875;55.8719;1771-1861;2
+1122;University of Glasgow;-4.2875;55.8719;1901-1921;1
+1123;University of Glasgow;-4.2875;55.8719;1941-1951;2
+1124;University of Glasgow;-4.2875;55.8719;1951-1961;1
+1125;University of Glasgow;-4.2875;55.8719;1961-1971;1
+1126;University of Gothenburg;11.9717;57.6983;1951-1961;1
+1127;University of Greenwich;-0.006075;51.4834;1971-2001;1
+1128;University of Groningen;6.56278;53.2192;1861-1901;1
+1129;University of Groningen;6.56278;53.2192;1921-1941;2
+1130;University of Groningen;6.56278;53.2192;1941-1951;1
+1131;University of Groningen;6.56278;53.2192;1961-1971;1
+1132;University of Göttingen;9.93444;51.5419;1771-1861;2
+1133;University of Göttingen;9.93444;51.5419;1861-1901;1
+1134;University of Göttingen;9.93444;51.5419;1901-1921;1
+1135;University of Hamburg;9.98389;53.5669;1901-1921;1
+1136;University of Hamburg;9.98389;53.5669;1921-1941;1
+1137;University of Hamburg;9.98389;53.5669;1941-1951;1
+1138;University of Hamburg;9.98389;53.5669;1971-2001;1
+1139;University of Havana;-82.382;23.1343;1921-1941;1
+1140;University of Havana;-82.382;23.1343;1961-1971;1
+1141;University of Helsinki;24.95;60.1694;1861-1901;1
+1142;University of Helsinki;24.95;60.1694;1941-1951;3
+1143;University of Helsinki;24.95;60.1694;1951-1961;1
+1144;University of Illinois at Urbana–Champaign;-88.2283;40.1106;1921-1941;1
+1145;University of Illinois at Urbana–Champaign;-88.2283;40.1106;1941-1951;1
+1146;University of Illinois at Urbana–Champaign;-88.2283;40.1106;1951-1961;2
+1147;University of Illinois at Urbana–Champaign;-88.2283;40.1106;1961-1971;1
+1148;University of Indonesia;106.827;-6.36528;1921-1941;2
+1149;University of Indonesia;106.827;-6.36528;1941-1951;2
+1150;University of Indonesia;106.827;-6.36528;1951-1961;1
+1151;University of Indonesia;106.827;-6.36528;1971-2001;1
+1152;University of Innsbruck;11.3844;47.2628;1941-1951;1
+1153;University of Iowa;-91.5364;41.6617;1861-1901;3
+1154;University of Iowa;-91.5364;41.6617;1901-1921;1
+1155;University of Jena;11.5822;50.9283;1771-1861;4
+1156;University of Jena;11.5822;50.9283;1861-1901;2
+1157;University of Johannesburg;27.9989;-26.1833;1951-1961;1
+1158;University of Jordan;35.8728;32.0139;1971-2001;1
+1159;University of Kansas;-95.2478;38.9581;1901-1921;2
+1160;University of Kansas;-95.2478;38.9581;1921-1941;1
+1161;University of Kansas;-95.2478;38.9581;1951-1961;2
+1162;University of Kentucky;-84.5;38.0333;1921-1941;1
+1163;University of Kentucky;-84.5;38.0333;1961-1971;1
+1164;University of Kerala;76.9472;8.50333;1941-1951;1
+1165;University of Kiel;10.1225;54.3389;1771-1861;1
+1166;University of Kiel;10.1225;54.3389;1861-1901;2
+1167;University of Kiel;10.1225;54.3389;1921-1941;2
+1168;University of Kiel;10.1225;54.3389;1941-1951;2
+1169;University of Kiel;10.1225;54.3389;1951-1961;2
+1170;University of Kiel;10.1225;54.3389;1961-1971;1
+1171;University of Konstanz;9.188;47.69;1941-1951;1
+1172;University of Konstanz;9.188;47.69;1951-1961;1
+1173;University of KwaZulu-Natal;30.9808;-29.8675;1961-1971;1
+1174;University of Lagos;3.38611;6.51667;1961-1971;1
+1175;University of Latvia;24.1167;56.95;1951-1961;1
+1176;University of Latvia;24.1167;56.95;1961-1971;1
+1177;University of Latvia;24.1167;56.95;1971-2001;1
+1178;University of Lausanne;6.57944;46.5225;1921-1941;1
+1179;University of Leeds;-1.55167;53.8072;1941-1951;1
+1180;University of Leeds;-1.55167;53.8072;1951-1961;2
+1181;University of Leicester;-1.12444;52.6214;1921-1941;1
+1182;University of Leicester;-1.12444;52.6214;1951-1961;1
+1183;University of Lille;3.07301;50.6317;1971-2001;1
+1184;University of Lima;-76.9708;-12.0848;1951-1961;2
+1185;University of Liverpool;-2.967;53.406;1961-1971;1
+1186;University of Ljubljana;14.5039;46.0489;1941-1951;2
+1187;University of Ljubljana;14.5039;46.0489;1951-1961;4
+1188;University of Los Andes (Colombia);-74.0652;4.60161;1941-1951;1
+1189;University of Lucknow;80.9364;26.8656;1901-1921;1
+1190;University of Lucknow;80.9364;26.8656;1951-1961;1
+1191;University of Lviv;24.0222;49.8406;1921-1941;1
+1192;University of Lyon;4.85235;45.7481;1901-1921;1
+1193;University of Lyon;4.85235;45.7481;1961-1971;1
+1194;University of Mainz;8.23806;49.9922;1921-1941;1
+1195;University of Mainz;8.23806;49.9922;1941-1951;2
+1196;University of Malaya;101.656;3.12083;1941-1951;1
+1197;University of Malta;14.4836;35.9022;1971-2001;1
+1198;University of Manchester;-2.23361;53.4656;1921-1941;1
+1199;University of Manchester;-2.23361;53.4656;1951-1961;3
+1200;University of Manchester;-2.23361;53.4656;1961-1971;3
+1201;University of Manchester;-2.23361;53.4656;1971-2001;1
+1202;University of Manitoba;-97.1328;49.8094;1941-1951;1
+1203;University of Mannheim;8.4647;49.4832;1921-1941;1
+1204;University of Mannheim;8.4647;49.4832;1941-1951;2
+1205;University of Mannheim;8.4647;49.4832;1961-1971;2
+1206;University of Marburg;8.77361;50.8108;1861-1901;1
+1207;University of Marburg;8.77361;50.8108;1921-1941;2
+1208;University of Maribor;15.6444;46.5594;1941-1951;1
+1209;University of Maryland, College Park;-76.94;38.9875;1901-1921;1
+1210;University of Maryland, College Park;-76.94;38.9875;1941-1951;1
+1211;University of Maryland, College Park;-76.94;38.9875;1961-1971;2
+1212;University of Maryland, College Park;-76.94;38.9875;1971-2001;1
+1213;University of Massachusetts Amherst;-72.5278;42.3889;1901-1921;1
+1214;University of Massachusetts Amherst;-72.5278;42.3889;1941-1951;1
+1215;University of Massachusetts Amherst;-72.5278;42.3889;1951-1961;1
+1216;University of Massachusetts Amherst;-72.5278;42.3889;1961-1971;1
+1217;University of Massachusetts Amherst;-72.5278;42.3889;1971-2001;1
+1218;University of Melbourne;144.961;-37.7963;1901-1921;3
+1219;University of Melbourne;144.961;-37.7963;1921-1941;1
+1220;University of Melbourne;144.961;-37.7963;1941-1951;4
+1221;University of Messina;15.5539;38.231;1941-1951;1
+1222;University of Michigan;-83.7381;42.2769;1861-1901;4
+1223;University of Michigan;-83.7381;42.2769;1901-1921;4
+1224;University of Michigan;-83.7381;42.2769;1921-1941;11
+1225;University of Michigan;-83.7381;42.2769;1941-1951;8
+1226;University of Michigan;-83.7381;42.2769;1951-1961;6
+1227;University of Michigan;-83.7381;42.2769;1961-1971;3
+1228;University of Minnesota;-93.2354;44.9747;1901-1921;1
+1229;University of Minnesota;-93.2354;44.9747;1921-1941;5
+1230;University of Minnesota;-93.2354;44.9747;1941-1951;3
+1231;University of Minnesota;-93.2354;44.9747;1951-1961;7
+1232;University of Minnesota;-93.2354;44.9747;1961-1971;3
+1233;University of Minnesota;-93.2354;44.9747;1971-2001;1
+1234;University of Missouri;-92.3288;38.9453;1941-1951;2
+1235;University of Missouri;-92.3288;38.9453;1951-1961;1
+1236;University of Montana;-113.985;46.86;1941-1951;1
+1237;University of Montana;-113.985;46.86;1951-1961;1
+1238;University of Mumbai;72.8258;18.975;1861-1901;1
+1239;University of Mumbai;72.8258;18.975;1921-1941;3
+1240;University of Mumbai;72.8258;18.975;1941-1951;1
+1241;University of Mumbai;72.8258;18.975;1951-1961;1
+1242;University of Mysore;76.6386;12.3082;1941-1951;1
+1243;University of Münster;7.61361;51.9636;1921-1941;4
+1244;University of Münster;7.61361;51.9636;1941-1951;1
+1245;University of Nairobi;36.8167;-1.27972;1951-1961;1
+1246;University of Nairobi;36.8167;-1.27972;1961-1971;1
+1247;University of National and World Economy;23.3486;42.6508;1941-1951;1
+1248;University of National and World Economy;23.3486;42.6508;1951-1961;6
+1249;University of National and World Economy;23.3486;42.6508;1961-1971;2
+1250;University of Nebraska–Lincoln;-96.7014;40.8175;1961-1971;1
+1251;University of New England (Australia);151.643;-30.4867;1921-1941;1
+1252;University of New England (Australia);151.643;-30.4867;1941-1951;1
+1253;University of New England (Australia);151.643;-30.4867;1951-1961;2
+1254;University of New Hampshire;-70.9333;43.1356;1941-1951;1
+1255;University of North Carolina;-79.0492;35.9086;1951-1961;1
+1256;University of North Carolina at Chapel Hill;-79.0492;35.9086;1921-1941;2
+1257;University of North Carolina at Chapel Hill;-79.0492;35.9086;1951-1961;1
+1258;University of North Carolina at Chapel Hill;-79.0492;35.9086;1961-1971;2
+1259;University of North Dakota;-97.0734;47.9222;1921-1941;1
+1260;University of North London;-0.1106;51.5518;1941-1951;1
+1261;University of Notre Dame;-86.2371;41.703;1941-1951;1
+1262;University of Notre Dame;-86.2371;41.703;1951-1961;2
+1263;University of Nottingham;-1.197;52.939;1921-1941;1
+1264;University of Nottingham;-1.197;52.939;1941-1951;1
+1265;University of Nottingham;-1.197;52.939;1961-1971;1
+1266;University of Oklahoma;-97.4458;35.2086;1921-1941;1
+1267;University of Oldenburg;8.18222;53.1478;1961-1971;1
+1268;University of Oregon;-123.075;44.045;1921-1941;1
+1269;University of Oregon;-123.075;44.045;1951-1961;1
+1270;University of Orléans;1.93398;47.8507;1951-1961;1
+1271;University of Oslo;10.7221;59.9399;1861-1901;1
+1272;University of Oslo;10.7221;59.9399;1901-1921;1
+1273;University of Oslo;10.7221;59.9399;1921-1941;1
+1274;University of Oslo;10.7221;59.9399;1941-1951;1
+1275;University of Oslo;10.7221;59.9399;1951-1961;1
+1276;University of Oslo;10.7221;59.9399;1961-1971;2
+1277;University of Oxford;-1.255;51.755;1771-1861;1
+1278;University of Oxford;-1.255;51.755;1921-1941;11
+1279;University of Oxford;-1.255;51.755;1941-1951;8
+1280;University of Oxford;-1.255;51.755;1951-1961;12
+1281;University of Oxford;-1.255;51.755;1961-1971;6
+1282;University of Oxford;-1.255;51.755;1971-2001;3
+1283;University of Padua;11.8667;45.4167;1771-1861;1
+1284;University of Padua;11.8667;45.4167;1901-1921;1
+1285;University of Padua;11.8667;45.4167;1941-1951;1
+1286;University of Paris 1 Pantheon-Sorbonne;2.3433;48.8486;1921-1941;1
+1287;University of Paris 1 Pantheon-Sorbonne;2.3433;48.8486;1941-1951;2
+1288;University of Paris 1 Pantheon-Sorbonne;2.3433;48.8486;1951-1961;2
+1289;University of Pavia;9.15639;45.1867;1921-1941;2
+1290;University of Pavia;9.15639;45.1867;1941-1951;1
+1291;University of Pennsylvania;-75.19;39.95;1861-1901;2
+1292;University of Pennsylvania;-75.19;39.95;1901-1921;1
+1293;University of Pennsylvania;-75.19;39.95;1921-1941;8
+1294;University of Pennsylvania;-75.19;39.95;1941-1951;10
+1295;University of Pennsylvania;-75.19;39.95;1951-1961;7
+1296;University of Pennsylvania;-75.19;39.95;1961-1971;6
+1297;University of Pennsylvania;-75.19;39.95;1971-2001;1
+1298;University of Piraeus;23.653;37.9417;1951-1961;1
+1299;University of Piraeus;23.653;37.9417;1961-1971;1
+1300;University of Pisa;10.3985;43.7165;1771-1861;1
+1301;University of Pisa;10.3985;43.7165;1861-1901;1
+1302;University of Pittsburgh;-79.9533;40.4446;1921-1941;1
+1303;University of Pittsburgh;-79.9533;40.4446;1941-1951;1
+1304;University of Pittsburgh;-79.9533;40.4446;1951-1961;1
+1305;University of Pittsburgh;-79.9533;40.4446;1961-1971;1
+1306;University of Porto;-8.61556;41.1467;1941-1951;1
+1307;University of Porto;-8.61556;41.1467;1951-1961;1
+1308;University of Porto;-8.61556;41.1467;1971-2001;1
+1309;University of Pretoria;28.2028;-25.7325;1961-1971;1
+1310;University of Pristina (1969–99);21.1675;42.6486;1951-1961;1
+1311;University of Queensland;153.013;-27.4972;1921-1941;1
+1312;University of Queensland;153.013;-27.4972;1941-1951;1
+1313;University of Queensland;153.013;-27.4972;1961-1971;2
+1314;University of Reading;-0.945556;51.4419;1951-1961;1
+1315;University of Reading;-0.945556;51.4419;1961-1971;2
+1316;University of Redlands;-117.164;34.0631;1951-1961;1
+1317;University of Regensburg;12.095;48.9981;1941-1951;1
+1318;University of Regensburg;12.095;48.9981;1961-1971;1
+1319;University of Regensburg;12.095;48.9981;1971-2001;1
+1320;University of Regina;-104.588;50.4156;1941-1951;1
+1321;University of Reims Champagne-Ardenne;4.0375;49.2519;1951-1961;1
+1322;University of Rijeka;14.4408;45.3278;1921-1941;1
+1323;University of Rochester;-77.6283;43.1283;1771-1861;1
+1324;University of Rochester;-77.6283;43.1283;1941-1951;5
+1325;University of Rochester;-77.6283;43.1283;1951-1961;8
+1326;University of Rochester;-77.6283;43.1283;1961-1971;2
+1327;University of Rochester;-77.6283;43.1283;1971-2001;1
+1328;University of Rostock;12.1033;54.0756;1771-1861;1
+1329;University of Salamanca;-5.66761;40.9616;1941-1951;1
+1330;University of Salamanca;-5.66761;40.9616;1951-1961;1
+1331;University of San Andrés;-58.5294;-34.4467;1961-1971;1
+1332;University of San Francisco;-122.452;37.7794;1941-1951;1
+1333;University of Santiago de Compostela;-8.5553;42.8768;1861-1901;1
+1334;University of Santiago de Compostela;-8.5553;42.8768;1921-1941;1
+1335;University of Santo Tomas;120.99;14.6097;1901-1921;1
+1336;University of Sarajevo;18.4167;43.8667;1951-1961;1
+1337;University of Saskatchewan;-106.633;52.1297;1921-1941;2
+1338;University of Seville;-5.9916;37.3801;1951-1961;1
+1339;University of Sheffield;-1.4888;53.3807;1951-1961;2
+1340;University of Sheffield;-1.4888;53.3807;1961-1971;2
+1341;University of Siegen;8.02833;50.9064;1951-1961;1
+1342;University of South Africa;28.1994;-25.7672;1961-1971;1
+1343;University of South Carolina;-81.0253;33.9975;1771-1861;1
+1344;University of South Carolina;-81.0253;33.9975;1951-1961;1
+1345;University of Southampton;-1.39595;50.9346;1921-1941;1
+1346;University of Southampton;-1.39595;50.9346;1961-1971;1
+1347;University of Southampton;-1.39595;50.9346;1971-2001;1
+1348;University of Southern California;-118.285;34.0217;1921-1941;1
+1349;University of Southern California;-118.285;34.0217;1941-1951;2
+1350;University of Southern California;-118.285;34.0217;1951-1961;3
+1351;University of Split;16.441;43.512;1961-1971;1
+1352;University of St. Gallen;9.37472;47.4317;1941-1951;3
+1353;University of St. Gallen;9.37472;47.4317;1961-1971;1
+1354;University of St. Gallen;9.37472;47.4317;1971-2001;1
+1355;University of Stirling;-3.91944;56.1458;1961-1971;1
+1356;University of Strasbourg;7.76444;48.5803;1771-1861;1
+1357;University of Strasbourg;7.76444;48.5803;1861-1901;4
+1358;University of Strasbourg;7.76444;48.5803;1941-1951;1
+1359;University of Stuttgart;9.17528;48.7817;1921-1941;1
+1360;University of Stuttgart;9.17528;48.7817;1961-1971;1
+1361;University of Surrey;-0.589444;51.2431;1951-1961;1
+1362;University of Sussex;-0.0855556;50.8653;1941-1951;4
+1363;University of Sussex;-0.0855556;50.8653;1951-1961;2
+1364;University of Sydney;151.187;-33.8878;1901-1921;4
+1365;University of Sydney;151.187;-33.8878;1921-1941;2
+1366;University of Sydney;151.187;-33.8878;1941-1951;3
+1367;University of Sydney;151.187;-33.8878;1951-1961;4
+1368;University of Sydney;151.187;-33.8878;1961-1971;1
+1369;University of Sydney;151.187;-33.8878;1971-2001;4
+1370;University of São Paulo;-46.7292;-23.5597;1921-1941;1
+1371;University of São Paulo;-46.7292;-23.5597;1941-1951;1
+1372;University of São Paulo;-46.7292;-23.5597;1951-1961;2
+1373;University of São Paulo;-46.7292;-23.5597;1961-1971;1
+1374;University of Tampa;-82.4654;27.9472;1971-2001;1
+1375;University of Tartu;26.7203;58.3811;1861-1901;1
+1376;University of Tartu;26.7203;58.3811;1901-1921;1
+1377;University of Tartu;26.7203;58.3811;1951-1961;1
+1378;University of Tehran;51.3952;35.7035;1951-1961;3
+1379;University of Tennessee;-83.93;35.9517;1861-1901;1
+1380;University of Tennessee;-83.93;35.9517;1901-1921;1
+1381;University of Tennessee;-83.93;35.9517;1941-1951;1
+1382;University of Tennessee;-83.93;35.9517;1961-1971;1
+1383;University of Texas at Arlington;-97.1146;32.7307;1941-1951;1
+1384;University of Texas at Austin;-97.735;30.285;1861-1901;1
+1385;University of Texas at Austin;-97.735;30.285;1921-1941;3
+1386;University of Texas at Austin;-97.735;30.285;1951-1961;2
+1387;University of Tirana;19.8217;41.3167;1951-1961;4
+1388;University of Tirana;19.8217;41.3167;1961-1971;2
+1389;University of Tokyo;139.762;35.7133;1921-1941;5
+1390;University of Tokyo;139.762;35.7133;1941-1951;3
+1391;University of Tokyo;139.762;35.7133;1951-1961;5
+1392;University of Tokyo;139.762;35.7133;1961-1971;1
+1393;University of Tokyo;139.762;35.7133;1971-2001;1
+1394;University of Toledo;-83.6137;41.6577;1961-1971;1
+1395;University of Toronto;-79.395;43.6617;1861-1901;1
+1396;University of Toronto;-79.395;43.6617;1901-1921;2
+1397;University of Toronto;-79.395;43.6617;1921-1941;4
+1398;University of Toronto;-79.395;43.6617;1941-1951;4
+1399;University of Toronto;-79.395;43.6617;1951-1961;4
+1400;University of Toronto;-79.395;43.6617;1961-1971;1
+1401;University of Toulouse;1.44389;43.6044;1941-1951;1
+1402;University of Trieste;13.7932;45.6585;1901-1921;1
+1403;University of Tsukuba;140.104;36.1114;1961-1971;1
+1404;University of Turin;7.68889;45.0694;1771-1861;1
+1405;University of Turin;7.68889;45.0694;1861-1901;2
+1406;University of Turin;7.68889;45.0694;1921-1941;1
+1407;University of Turin;7.68889;45.0694;1941-1951;1
+1408;University of Turin;7.68889;45.0694;1951-1961;1
+1409;University of Turin;7.68889;45.0694;1961-1971;1
+1410;University of Tübingen;9.05889;48.525;1771-1861;2
+1411;University of Tübingen;9.05889;48.525;1921-1941;1
+1412;University of Tübingen;9.05889;48.525;1941-1951;2
+1413;University of Utah;-111.85;40.765;1901-1921;1
+1414;University of Utah;-111.85;40.765;1921-1941;1
+1415;University of Valle;-76.5345;3.37501;1941-1951;1
+1416;University of Vienna;16.3597;48.2131;1771-1861;3
+1417;University of Vienna;16.3597;48.2131;1861-1901;5
+1418;University of Vienna;16.3597;48.2131;1901-1921;7
+1419;University of Vienna;16.3597;48.2131;1941-1951;1
+1420;University of Vienna;16.3597;48.2131;1951-1961;1
+1421;University of Vienna;16.3597;48.2131;1961-1971;1
+1422;University of Virginia;-78.5033;38.0356;1941-1951;1
+1423;University of Virginia;-78.5033;38.0356;1951-1961;1
+1424;University of Warsaw;21.0192;52.2403;1861-1901;1
+1425;University of Warsaw;21.0192;52.2403;1901-1921;1
+1426;University of Warsaw;21.0192;52.2403;1921-1941;1
+1427;University of Warsaw;21.0192;52.2403;1941-1951;2
+1428;University of Warsaw;21.0192;52.2403;1951-1961;1
+1429;University of Warsaw;21.0192;52.2403;1961-1971;1
+1430;University of Warwick;-1.56193;52.3801;1941-1951;1
+1431;University of Warwick;-1.56193;52.3801;1951-1961;1
+1432;University of Warwick;-1.56193;52.3801;1961-1971;3
+1433;University of Washington;-122.308;47.6542;1861-1901;1
+1434;University of Washington;-122.308;47.6542;1901-1921;1
+1435;University of Washington;-122.308;47.6542;1921-1941;3
+1436;University of Washington;-122.308;47.6542;1951-1961;2
+1437;University of Waterloo;-80.54;43.4689;1951-1961;1
+1438;University of Western Australia;115.819;-31.9803;1901-1921;1
+1439;University of Western Australia;115.819;-31.9803;1941-1951;2
+1440;University of Western Australia;115.819;-31.9803;1961-1971;1
+1441;University of Western Ontario;-81.2725;43.0083;1921-1941;1
+1442;University of Western Ontario;-81.2725;43.0083;1941-1951;3
+1443;University of Western Ontario;-81.2725;43.0083;1951-1961;3
+1444;University of Western Ontario;-81.2725;43.0083;1971-2001;1
+1445;University of Westminster;-0.142972;51.517;1971-2001;1
+1446;University of Windsor;-83.0658;42.3067;1951-1961;2
+1447;University of Winnipeg;-97.1534;49.8901;1941-1951;1
+1448;University of Wisconsin–Madison;-89.4172;43.075;1861-1901;13
+1449;University of Wisconsin–Madison;-89.4172;43.075;1901-1921;1
+1450;University of Wisconsin–Madison;-89.4172;43.075;1941-1951;9
+1451;University of Wisconsin–Madison;-89.4172;43.075;1951-1961;5
+1452;University of Wisconsin–Madison;-89.4172;43.075;1961-1971;2
+1453;University of Wisconsin–Stevens Point;-89.5681;44.5251;1961-1971;1
+1454;University of Wyoming;-105.581;41.3131;1861-1901;1
+1455;University of Wyoming;-105.581;41.3131;1951-1961;1
+1456;University of Wyoming;-105.581;41.3131;1961-1971;1
+1457;University of York;-1.0525;53.9466;1921-1941;2
+1458;University of York;-1.0525;53.9466;1941-1951;2
+1459;University of York;-1.0525;53.9466;1961-1971;2
+1460;University of Zagreb;15.9701;45.8107;1901-1921;3
+1461;University of Zagreb;15.9701;45.8107;1921-1941;1
+1462;University of Zagreb;15.9701;45.8107;1941-1951;1
+1463;University of Zagreb;15.9701;45.8107;1951-1961;3
+1464;University of Zagreb;15.9701;45.8107;1961-1971;2
+1465;University of Zagreb;15.9701;45.8107;1971-2001;2
+1466;University of Zambia;28.3322;-15.3947;1961-1971;1
+1467;University of Zimbabwe;31.053;-17.784;1961-1971;1
+1468;University of Zurich;8.54833;47.3747;1861-1901;1
+1469;University of Zurich;8.54833;47.3747;1901-1921;1
+1470;University of Zurich;8.54833;47.3747;1951-1961;1
+1471;University of Zurich;8.54833;47.3747;1961-1971;2
+1472;University of the Andes (Venezuela);-71.1394;8.61833;1951-1961;1
+1473;University of the Basque Country;-2.97833;43.3356;1961-1971;1
+1474;University of the Littoral Opal Coast;1.8795;50.9533;1951-1961;1
+1475;University of the Philippines;121.067;14.6667;1901-1921;2
+1476;University of the Philippines;121.067;14.6667;1941-1951;1
+1477;University of the Philippines Diliman;121.065;14.6549;1921-1941;2
+1478;University of the Philippines Los Baños;121.242;14.165;1951-1961;1
+1479;University of the Punjab;74.1747;31.2928;1921-1941;3
+1480;University of the Republic (Uruguay);-56.1765;-34.9026;1921-1941;2
+1481;University of the Republic (Uruguay);-56.1765;-34.9026;1951-1961;2
+1482;University of the Republic (Uruguay);-56.1765;-34.9026;1961-1971;3
+1483;University of Łódź;19.4731;51.7717;1941-1951;1
+1484;University of Łódź;19.4731;51.7717;1951-1961;1
+1485;Università Cattolica del Sacro Cuore;9.17667;45.4631;1921-1941;1
+1486;Université Laval;-71.2747;46.78;1901-1921;1
+1487;Université catholique de Louvain;4.61226;50.6696;1941-1951;1
+1488;Université catholique de Louvain;4.61226;50.6696;1951-1961;1
+1489;Université catholique de Louvain;4.61226;50.6696;1961-1971;2
+1490;Université de Montréal;-73.6128;45.5047;1921-1941;2
+1491;Université de Montréal;-73.6128;45.5047;1941-1951;1
+1492;Université de Montréal;-73.6128;45.5047;1951-1961;1
+1493;Uppsala University;17.6289;59.8575;1861-1901;3
+1494;Uppsala University;17.6289;59.8575;1901-1921;1
+1495;Uppsala University;17.6289;59.8575;1941-1951;1
+1496;Uppsala University;17.6289;59.8575;1961-1971;1
+1497;Utah State University;-111.809;41.745;1941-1951;1
+1498;Utah State University;-111.809;41.745;1951-1961;1
+1499;Utrecht University;5.12028;52.09;1771-1861;1
+1500;Utrecht University;5.12028;52.09;1861-1901;2
+1501;Utrecht University;5.12028;52.09;1901-1921;1
+1502;Utrecht University;5.12028;52.09;1921-1941;1
+1503;Utrecht University;5.12028;52.09;1971-2001;1
+1504;Vanderbilt University;-86.805;36.1486;1921-1941;1
+1505;Vanderbilt University;-86.805;36.1486;1941-1951;1
+1506;Vanderbilt University;-86.805;36.1486;1951-1961;1
+1507;Vanderbilt University;-86.805;36.1486;1961-1971;1
+1508;Vassar College;-73.8958;41.6875;1901-1921;1
+1509;Victoria University of Manchester;-2.23361;53.4656;1941-1951;1
+1510;Victoria University of Wellington;174.768;-41.2889;1941-1951;1
+1511;Victoria University of Wellington;174.768;-41.2889;1951-1961;1
+1512;Villanova University;-75.3375;40.0377;1971-2001;1
+1513;Vilnius University;25.2872;54.6825;1941-1951;1
+1514;Vilnius University;25.2872;54.6825;1951-1961;1
+1515;Vilnius University;25.2872;54.6825;1961-1971;2
+1516;Virginia Commonwealth University;-77.4533;37.5466;1961-1971;1
+1517;Virginia Military Institute;-79.44;37.79;1961-1971;1
+1518;Virginia Tech;-80.425;37.225;1941-1951;1
+1519;Vrije Universiteit Amsterdam;4.865;52.3339;1921-1941;6
+1520;Vrije Universiteit Amsterdam;4.865;52.3339;1951-1961;2
+1521;Vrije Universiteit Amsterdam;4.865;52.3339;1961-1971;2
+1522;Vrije Universiteit Brussel;4.39573;50.8224;1961-1971;1
+1523;Wa Ying College;114.183;22.3195;1921-1941;1
+1524;Wageningen University and Research;5.6586;51.9671;1941-1951;1
+1525;Wales;-3.18333;51.4833;1921-1941;1
+1526;Warsaw University of Life Sciences;21.0481;52.1617;1951-1961;1
+1527;Warsaw University of Technology;21.0106;52.2203;1901-1921;1
+1528;Waseda University;139.719;35.7092;1921-1941;2
+1529;Waseda University;139.719;35.7092;1941-1951;1
+1530;Washington State University;-117.16;46.73;1951-1961;2
+1531;Washington University in St. Louis;-90.305;38.648;1901-1921;1
+1532;Washington University in St. Louis;-90.305;38.648;1921-1941;1
+1533;Washington University in St. Louis;-90.305;38.648;1941-1951;1
+1534;Washington University in St. Louis;-90.305;38.648;1951-1961;2
+1535;Washington University in St. Louis;-90.305;38.648;1971-2001;1
+1536;Washington, D.C.;-77.0164;38.9047;1951-1961;1
+1537;Wayne State University;-83.0701;42.3573;1951-1961;1
+1538;Wellesley College;-71.3067;42.2953;1941-1951;1
+1539;Wellesley College;-71.3067;42.2953;1951-1961;1
+1540;Wellesley College;-71.3067;42.2953;1971-2001;1
+1541;Wesleyan University;-72.6558;41.5556;1921-1941;2
+1542;Wesleyan University;-72.6558;41.5556;1951-1961;1
+1543;Westminster City School;-0.1391;51.4978;1951-1961;1
+1544;Wharton School of the University of Pennsylvania;-75.198;39.9532;1861-1901;1
+1545;Wharton School of the University of Pennsylvania;-75.198;39.9532;1921-1941;1
+1546;Wharton School of the University of Pennsylvania;-75.198;39.9532;1941-1951;4
+1547;Wharton School of the University of Pennsylvania;-75.198;39.9532;1951-1961;1
+1548;Willamette University;-123.031;44.9358;1921-1941;1
+1549;Williams College;-73.203;42.713;1771-1861;2
+1550;Williams College;-73.203;42.713;1861-1901;1
+1551;Williams College;-73.203;42.713;1921-1941;3
+1552;Williams College;-73.203;42.713;1941-1951;1
+1553;Worcester College, Oxford;-1.2637;51.755;1951-1961;1
+1554;Worcester Polytechnic Institute;-71.8075;42.2744;1951-1961;1
+1555;Worcester Polytechnic Institute;-71.8075;42.2744;1961-1971;1
+1556;Wrocław University of Economics;17.025;51.0914;1951-1961;1
+1557;Xavier University;-84.478;39.1487;1951-1961;1
+1558;Yale School of Management;-72.9203;41.3153;1941-1951;1
+1559;Yale University;-72.9267;41.3111;1771-1861;1
+1560;Yale University;-72.9267;41.3111;1861-1901;5
+1561;Yale University;-72.9267;41.3111;1901-1921;6
+1562;Yale University;-72.9267;41.3111;1921-1941;15
+1563;Yale University;-72.9267;41.3111;1941-1951;15
+1564;Yale University;-72.9267;41.3111;1951-1961;18
+1565;Yale University;-72.9267;41.3111;1961-1971;7
+1566;Yankton College;-97.3903;42.8803;1861-1901;1
+1567;Yerevan State University;44.5264;40.1817;1951-1961;1
+1568;Yerevan State University;44.5264;40.1817;1961-1971;1
+1569;Yokohama National University;139.59;35.474;1941-1951;1
+1570;Yonsei University;126.939;37.5664;1921-1941;1
+1571;Yonsei University;126.939;37.5664;1961-1971;1
+1572;York University;-79.5036;43.7731;1951-1961;1
+1573;Ypsilanti, Michigan;-83.6183;42.2428;1941-1951;1
+1574;École Polytechnique;2.209;48.713;1771-1861;2
+1575;École Polytechnique;2.209;48.713;1901-1921;1
+1576;École Polytechnique;2.209;48.713;1941-1951;4
+1577;École Polytechnique;2.209;48.713;1951-1961;2
+1578;École Polytechnique;2.209;48.713;1961-1971;2
+1579;École nationale d'administration;7.73722;48.5806;1941-1951;3
+1580;École nationale d'administration;7.73722;48.5806;1951-1961;1
+1581;École nationale de l'aviation civile;1.48111;43.5653;1921-1941;2
+1582;École normale supérieure Paris-Saclay;2.32663;48.7887;1971-2001;1
+1583;École pratique des hautes études;2.34;48.8311;1901-1921;1
+1584;Örebro University;15.2453;59.2544;1961-1971;1
